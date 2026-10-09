@@ -1,0 +1,34 @@
+name: Visual feedback / Retour visuel
+description: Share a specific observation about the public screenshots.
+title: "[Visual] "
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you! Please identify the image and the detail you noticed. / Merci ! Précisez l’image et le détail observé."
+  - type: input
+    id: image
+    attributes:
+      label: Image or view / Image ou vue
+      placeholder: M.I.S.T. shooting range, README image
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Main topic / Sujet principal
+      options:
+        - Layout and proportions / Disposition et proportions
+        - Materials / Matières
+        - Lighting / Éclairage
+        - Atmosphere / Ambiance
+        - Text or translation / Texte ou traduction
+        - Other / Autre
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Your observation / Votre observation
+      description: Explain the detail and, if useful, attach a reference screenshot with its source.
+    validations:
+      required: true
