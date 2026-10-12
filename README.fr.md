@@ -16,7 +16,7 @@ Je reconstruis l’univers de **Parasite Eve II**, en commençant par le **M.I.S
 
 L’objectif est de retrouver cette familiarité avec un environnement qui possède une vraie profondeur, des matières crédibles et des objets qui réagissent à ce qui les entoure. Un impact, une bouteille cassée ou une lampe endommagée doivent laisser une trace visible.
 
-Ce dépôt présente les avancées du projet. Il s’agit d’une **alpha de développement**, avec des personnages provisoires et des systèmes encore incomplets. Reconstruire le jeu entier reste une ambition à long terme ; le travail présenté ici se concentre sur le M.I.S.T.
+Ce dépôt présente les avancées du projet. Il s’agit d’une **alpha de développement**, avec des personnages provisoires et des systèmes encore incomplets. Reconstruire le jeu entier reste une ambition à long terme ; les images présentées ici se concentrent sur le M.I.S.T., tandis qu’un laboratoire séparé travaille sur le personnage jouable.
 
 <p align="center"><a href="media/wide/mist-view15-16x9.png"><img src="media/wide/mist-view15-16x9.png" alt="Capture de l’alpha précoce du stand de tir du M.I.S.T., 16:9" width="100%"></a></p>
 
@@ -33,6 +33,18 @@ Ce dépôt présente les avancées du projet. Il s’agit d’une **alpha de dé
 
 Les performances, les collisions et la finition visuelle demandent encore du travail. Les personnages définitifs ne sont pas encore intégrés : les mannequins sont provisoires.
 <!-- ALPHA_STATUS_END -->
+
+## Le laboratoire Aya
+
+Le travail sur le personnage a commencé, dans un espace dédié : un laboratoire Unreal séparé où je développe les déplacements, la posture, la visée et le maniement du pistolet d’Aya, et où je les éprouve avant toute intégration au projet principal.
+
+- **Déplacements :** repos, marche, course, déplacements en visée et pas latéraux, avec une posture redressée, une respiration et de petits mouvements au repos.
+- **Visée et prise en main :** sa propre pose de visée, des bras et des poignets corrigés, le pistolet tenu dans sa propre main, une main de soutien placée comme le décrivent les manuels de tir, l’index sur la détente.
+- **Rechargements :** un rechargement à vide refait étape par étape : glissière bloquée en arrière, chargeur vide lâché, nouveau chargeur, glissière relâchée. Le rechargement tactique et l’inspection courte sont prototypés et restent à adapter.
+- **Réactions au tir :** mouvement de la glissière, recul des bras, flash de bouche variable, et douilles qui rebondissent, roulent puis s’immobilisent.
+- **Une expérimentation :** un petit easter egg pour qui insiste pour recharger une arme déjà pleine.
+
+Le personnage animé dans le laboratoire est une base féminine provisoire, pas Aya, dont l’apparence définitive est encore en recherche. Rien de tout cela n’est encore dans le projet principal, et il n’y a pas de nouvelles images du personnage pour l’instant. [Lire le compte rendu complet du laboratoire →](docs/PROGRESS.fr.md#le-laboratoire-aya--point-du-12-octobre-2026)
 
 ## Cadrages originaux, environnements reconstruits
 
@@ -85,7 +97,8 @@ La couverture et les fiches de personnages sont des **références conceptuelles
 - Étendre le M.I.S.T. à ses autres espaces connectés.
 - Renforcer la fidélité et les interactions du décor.
 - Consolider les commandes, les collisions et les performances.
-- Revenir aux personnages après le travail sur l’environnement.
+- Dans le laboratoire Aya : adapter le rechargement tactique et l’inspection courte, puis ajouter la visée vers le haut et vers le bas et les sons du pistolet.
+- Poursuivre la recherche de l’apparence définitive d’Aya, et intégrer les systèmes du laboratoire au projet principal une fois qu’ils seront solides.
 
 Les textes sont prévus en **anglais et en français**. Les voix et les cinématiques sont des pistes pour une phase ultérieure, pas des fonctionnalités de l’alpha actuelle.
 

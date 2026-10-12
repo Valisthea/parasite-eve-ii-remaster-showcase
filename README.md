@@ -16,7 +16,7 @@ I’m rebuilding the world of **Parasite Eve II**, starting with **M.I.S.T.**: i
 
 The aim is to preserve that familiarity while giving the environment real depth, convincing materials and objects that respond to what happens around them. A surface impact, a broken bottle or a damaged light should leave a visible trace.
 
-This repository is a public progress showcase. The project is an **early development alpha**, with temporary characters and unfinished systems. Rebuilding the entire game is a long-term ambition; the work shown here is centred on M.I.S.T.
+This repository is a public progress showcase. The project is an **early development alpha**, with temporary characters and unfinished systems. Rebuilding the entire game is a long-term ambition; the images shown here are centred on M.I.S.T., while a separate lab works on the playable character.
 
 <p align="center"><a href="media/wide/mist-view15-16x9.png"><img src="media/wide/mist-view15-16x9.png" alt="Early alpha capture of the M.I.S.T. shooting range, 16:9" width="100%"></a></p>
 
@@ -33,6 +33,18 @@ This repository is a public progress showcase. The project is an **early develop
 
 Performance, collision checks and visual polish are still being worked on. The final characters are not yet integrated: the mannequins are temporary.
 <!-- ALPHA_STATUS_END -->
+
+## The Aya lab
+
+Character work has started, in a space of its own: a separate Unreal lab where I develop Aya’s movement, posture, aiming and pistol handling, and test them before anything goes into the main project.
+
+- **Movement:** idle, walk, run, moving while aiming and side steps, with a straightened posture, breathing and small movements at rest.
+- **Aiming and grip:** her own aiming pose, corrected arms and wrists, the pistol held in her own hand, a support hand placed as shooting manuals describe, the index finger on the trigger.
+- **Reloads:** an empty reload rebuilt step by step: slide locked back, empty magazine dropped, fresh magazine, slide released. The tactical reload and the short inspection are prototyped and still need adapting.
+- **Firing feedback:** slide movement, arm recoil, a varying muzzle flash, and casings that bounce, roll and settle.
+- **An experiment:** a small easter egg for players who insist on reloading a full weapon.
+
+The character animated in the lab is a temporary female base model, not Aya, whose final look is still being researched. None of this is in the main project yet, and there are no new character images for now. [Read the full lab update →](docs/PROGRESS.md#the-aya-lab--update-of-12-october-2026)
 
 ## Original framing, rebuilt environments
 
@@ -85,7 +97,8 @@ The cover and the character sheets are **AI-generated concept references**, sepa
 - Extend M.I.S.T. into its remaining connected spaces.
 - Continue improving the environment’s fidelity and interactions.
 - Consolidate controls, collisions and performance.
-- Return to the characters once the environment work is ready.
+- In the Aya lab: adapt the tactical reload and the short inspection, then add aiming up and down and the pistol’s sounds.
+- Keep researching Aya’s final look, and bring the lab’s systems into the main project once they hold up.
 
 The planned text languages are **English and French**. Voice acting and cinematic work are possibilities for a later phase, not current alpha features.
 

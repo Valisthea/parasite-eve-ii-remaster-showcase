@@ -4,7 +4,7 @@
 
 Ces images sont des concepts générés par IA fournis par le créateur du projet. Elles servent de références artistiques et ne montrent pas des modèles terminés dans Unreal Engine.
 
-Le travail sur les personnages reste en attente pendant la reconstruction de l’environnement. Les détails et les tenues pourront évoluer.
+Le travail sur le personnage jouable a commencé dans un laboratoire séparé, avec une base provisoire ([avancement](PROGRESS.fr.md#le-laboratoire-aya--point-du-12-octobre-2026)). Les modèles définitifs des personnages ne sont pas encore réalisés, et les détails et les tenues pourront évoluer.
 
 ## Couverture — Aya / Dryfield
 

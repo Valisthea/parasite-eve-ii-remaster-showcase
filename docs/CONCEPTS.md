@@ -4,7 +4,7 @@
 
 These images are AI-generated concepts supplied by the project creator. They are artistic references, not finished Unreal Engine character models.
 
-Character production is on hold while the environment is being rebuilt. Designs and outfits may change.
+Work on the playable character has started in a separate lab, using a temporary base model ([progress](PROGRESS.md#the-aya-lab--update-of-12-october-2026)). The final character models are not made yet, and designs and outfits may change.
 
 ## Cover — Aya / Dryfield
 
