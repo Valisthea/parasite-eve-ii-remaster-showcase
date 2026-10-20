@@ -6,8 +6,9 @@ Priorité : **reconstruction de l’environnement M.I.S.T.**, avec un **laborato
 
 | Partie | État actuel |
 | --- | --- |
-| Espaces du M.I.S.T. | Stand de tir, salle de surveillance et sas-vestibule reconstruits aux cadrages d’origine ; nouvelles passes de détail et espaces attenants à venir |
-| Réactions environnementales | Intégrées au prototype ; charge élevée et performances encore à travailler |
+| Espaces du M.I.S.T. | Stand de tir, salle de surveillance, sas-vestibule, couloir de service, zone d’accès restreint et armurerie, parking souterrain reconstruits aux cadrages d’origine ; nouvelles passes de détail à venir ; [point du 20 octobre](#mist-destruction-et-akropolis--point-du-20-octobre-2026) |
+| Akropolis | Cartographiée et reconstruite en structure praticable (17 zones, 20 portes fonctionnelles) ; première passe de décor sur la promenade, la chapelle et le belvédère ; matières et éclairage à venir |
+| Réactions environnementales | Intégrées au prototype ; destruction pièce par pièce des armoires d’armes, d’un mur carrelé et de l’extincteur, testée dans le moteur ; performances sous forte charge encore à travailler |
 | Sauvegarde complète de partie | Non terminée |
 | Laboratoire Aya (personnage jouable) | Expérimental, dans un projet Unreal séparé : déplacements, posture, visée, prise du pistolet, rechargement à vide et réactions au tir fonctionnent à différents niveaux ; le rechargement tactique et l’inspection courte restent à adapter ; [détails plus bas](#le-laboratoire-aya--point-du-12-octobre-2026) |
 | Personnages définitifs | Non intégrés ; le laboratoire utilise une base provisoire, et l’apparence définitive d’Aya est encore en recherche |
@@ -17,6 +18,19 @@ Priorité : **reconstruction de l’environnement M.I.S.T.**, avec un **laborato
 Le travail avance par passes : construire, comparer, tester, puis corriger. Les captures montrent l’état visuel d’une version donnée ; leur définition ne constitue pas une mesure de performance à cette résolution.
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
+
+## M.I.S.T., destruction et Akropolis — point du 20 octobre 2026
+
+Le **M.I.S.T.** va maintenant au-delà du sas : le couloir de service, la porte de la zone d’accès restreint et son digicode, l’armurerie derrière sa cage grillagée, et le parking souterrain. Chaque espace est comparé aux plans fixes d’origine, puis détaillé : rayonnages encastrés dans les murs, papiers posés à la main plutôt qu’en grille, panneaux lisibles.
+
+**Destruction.** Trois cas sont construits et testés dans le moteur :
+- **Les armoires d’armes** du sas : une balle traverse la vitre en acrylique, perd une partie de son énergie et atteint l’arme derrière ; la serrure et chaque charnière peuvent être touchées séparément ; une porte que plus rien ne retient tombe et reste au sol ; un support brisé fait tomber le peigne et les armes basculent.
+- **Un mur carrelé** : le carreau, son lit de mortier et le béton derrière sont des couches distinctes ; un carreau touché encore et encore éclate, le béton ne prend qu’un cratère.
+- **L’extincteur** : un impact sur la vanne libère le jet par le haut ; un impact haut sur le corps l’arrache de son support, et le jet comme les marques le suivent dans sa chute ; des impacts groupés font éclater la coque, des impacts dispersés jamais.
+
+Trous, marques, portes et morceaux tombés se sauvegardent et se restaurent à l’identique, et le résultat d’une suite de tirs est le même à différentes cadences d’image.
+
+**Akropolis.** Toute la zone a été cartographiée et reconstruite en structure praticable : dix-sept zones, vingt portes fonctionnelles, plus de deux cents plans fixes d’origine. La première passe de décor couvre la promenade en plein air et son escalator sous verrière, la chapelle et le belvédère. Les planches publiées montrent cette **passe de structure** : des volumes sans textures et un éclairage provisoire sur les cadrages d’origine.
 
 ## Le laboratoire Aya — point du 12 octobre 2026
 

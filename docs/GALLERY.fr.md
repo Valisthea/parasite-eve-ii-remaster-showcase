@@ -24,6 +24,48 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-pierce
 [![Comparaison du sas-vestibule](../media/comparisons/mist-vestibule-4x3.png)](../media/alpha/mist-vestibule-4x3.png)
 
 Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-vestibule-4x3.png) · aucun personnage dans le champ.
+
+### L’armurerie du M.I.S.T.
+
+[![Comparaison : L’armurerie du M.I.S.T.](../media/comparisons/mist-armoury-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-armoury-4x3.png) · aucun personnage dans le champ.
+
+### Porte de la zone d’accès restreint
+
+[![Comparaison : Porte de la zone d’accès restreint](../media/comparisons/mist-restricted-door-4x3.png)](../media/alpha/mist-restricted-door-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-restricted-door-4x3.png) · aucun personnage dans le champ.
+
+### Couloir de service
+
+[![Comparaison : Couloir de service](../media/comparisons/mist-corridor-4x3.png)](../media/alpha/mist-corridor-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · aucun personnage dans le champ.
+
+### Akropolis · colonnade du belvédère
+
+[![Comparaison : Akropolis · colonnade du belvédère](../media/comparisons/akropolis-observatory-4x3.png)](../media/alpha/akropolis-observatory-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-observatory-4x3.png) · passe de structure : volumes sans textures, éclairage provisoire.
+
+### Akropolis · escalator sous sa verrière
+
+[![Comparaison : Akropolis · escalator sous sa verrière](../media/comparisons/akropolis-escalator-4x3.png)](../media/alpha/akropolis-escalator-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-escalator-4x3.png) · passe de structure : volumes sans textures, éclairage provisoire.
+
+### Akropolis · porte de la chapelle
+
+[![Comparaison : Akropolis · porte de la chapelle](../media/comparisons/akropolis-chapel-door-4x3.png)](../media/alpha/akropolis-chapel-door-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-chapel-door-4x3.png) · passe de structure : volumes sans textures, éclairage provisoire.
+
+### Sas-vestibule · avant et après quelques tirs
+
+[![Sas-vestibule avant et après](../media/comparisons/mist-vestibule-destruction-4x3.png)](../media/alpha/mist-vestibule-after-4x3.png)
+
+Planche 3840 × 2160 · le même plan fixe d’origine, avant et après des tirs en jeu · [avant](../media/alpha/mist-vestibule-before-4x3.png) · [après](../media/alpha/mist-vestibule-after-4x3.png).
 <!-- GALLERY_END -->
 
 ## Présentation panoramique

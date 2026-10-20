@@ -6,8 +6,9 @@ Focus: **M.I.S.T. environment reconstruction**, with a separate **Aya lab** for 
 
 | Area | Current status |
 | --- | --- |
-| M.I.S.T. spaces | Shooting range, monitoring room and airlock vestibule rebuilt at the original framings; further detail passes and the connected spaces to come |
-| Environmental reactions | Implemented in the prototype; heavy-load validation and performance still need work |
+| M.I.S.T. spaces | Shooting range, monitoring room, airlock vestibule, service corridor, restricted area and armoury, underground car park rebuilt at the original framings; further detail passes to come; [update of 20 October](#mist-destruction-and-akropolis--update-of-20-october-2026) |
+| Akropolis | Mapped and rebuilt as a walkable structure (17 zones, 20 working doors); first decor pass on the promenade, the chapel and the observatory; materials and lighting to come |
+| Environmental reactions | Implemented in the prototype; piece-by-piece destruction for the weapon cabinets, a tiled wall and the fire extinguisher, tested in the engine; heavy-load performance still needs work |
 | Full game saves | Not complete |
 | Aya lab (playable character) | Experimental, in a separate Unreal project: movement, posture, aiming, pistol grip, empty reload and firing feedback work at different levels; the tactical reload and the short inspection still need adapting; [details below](#the-aya-lab--update-of-12-october-2026) |
 | Final characters | Not integrated; the lab uses a temporary base model, and Aya’s final look is still being researched |
@@ -17,6 +18,19 @@ Focus: **M.I.S.T. environment reconstruction**, with a separate **Aya lab** for 
 Work progresses in focused passes: build, compare, test, then correct. Screenshots demonstrate the visual state of a particular build; they do not establish performance at their image resolution.
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
+
+## M.I.S.T., destruction and Akropolis — update of 20 October 2026
+
+**M.I.S.T.** now reaches past the airlock: the service corridor, the restricted area door and its keypad, the armoury behind its mesh cage, and the underground car park. Each space is matched against the original fixed views, then detailed: shelving built into the walls, papers laid by hand rather than in a grid, signs that can be read.
+
+**Destruction.** Three cases are built and tested in the engine:
+- **The weapon cabinets** of the airlock: a round crosses the acrylic pane, loses some energy and reaches the gun behind it; a lock and each hinge can be shot on its own; a door with nothing left to hold it falls and lies on the floor; a broken support drops the comb and the guns tip over.
+- **A tiled wall**: the tile, its cement bed and the concrete behind are separate layers; a tile that is hit again and again bursts off, the concrete only takes a crater.
+- **The fire extinguisher**: a hit on the valve releases the jet from the top; a hit high on the body tears it off its bracket, and the jet and the marks follow it as it falls; a group of hits bursts the shell, spread hits never do.
+
+Holes, marks, fallen doors and pieces are saved and restored exactly, and the outcome of a sequence of shots is the same at different frame rates.
+
+**Akropolis.** The whole area has been mapped and rebuilt as a walkable structure: seventeen zones, twenty working doors, more than two hundred original fixed views. The first decor pass covers the open-air promenade with its escalator under a glass canopy, the chapel and the observatory. The published boards show this **structure pass**: untextured volumes and provisional lighting over the original framings.
 
 ## The Aya lab — update of 12 October 2026
 

@@ -24,6 +24,48 @@ Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-pierce-4
 [![Airlock vestibule comparison](../media/comparisons/mist-vestibule-4x3.png)](../media/alpha/mist-vestibule-4x3.png)
 
 Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-vestibule-4x3.png) · no character in frame.
+
+### M.I.S.T. armoury
+
+[![M.I.S.T. armoury comparison](../media/comparisons/mist-armoury-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-armoury-4x3.png) · no character in frame.
+
+### Restricted area door
+
+[![Restricted area door comparison](../media/comparisons/mist-restricted-door-4x3.png)](../media/alpha/mist-restricted-door-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-restricted-door-4x3.png) · no character in frame.
+
+### Service corridor
+
+[![Service corridor comparison](../media/comparisons/mist-corridor-4x3.png)](../media/alpha/mist-corridor-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · no character in frame.
+
+### Akropolis · observatory colonnade
+
+[![Akropolis · observatory colonnade comparison](../media/comparisons/akropolis-observatory-4x3.png)](../media/alpha/akropolis-observatory-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-observatory-4x3.png) · structure pass: untextured volumes, provisional lighting.
+
+### Akropolis · escalator under its glass canopy
+
+[![Akropolis · escalator under its glass canopy comparison](../media/comparisons/akropolis-escalator-4x3.png)](../media/alpha/akropolis-escalator-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-escalator-4x3.png) · structure pass: untextured volumes, provisional lighting.
+
+### Akropolis · chapel door
+
+[![Akropolis · chapel door comparison](../media/comparisons/akropolis-chapel-door-4x3.png)](../media/alpha/akropolis-chapel-door-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-chapel-door-4x3.png) · structure pass: untextured volumes, provisional lighting.
+
+### Airlock vestibule · before and after a few rounds
+
+[![Airlock vestibule before and after](../media/comparisons/mist-vestibule-destruction-4x3.png)](../media/alpha/mist-vestibule-after-4x3.png)
+
+Board 3840 × 2160 · the same original fixed view, before and after rounds fired in game · [before](../media/alpha/mist-vestibule-before-4x3.png) · [after](../media/alpha/mist-vestibule-after-4x3.png).
 <!-- GALLERY_END -->
 
 ## Widescreen presentation
