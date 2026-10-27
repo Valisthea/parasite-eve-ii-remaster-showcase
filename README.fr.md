@@ -66,6 +66,9 @@ Chaque planche place l’**original** (à gauche) à côté de l’**alpha** (à
 [![Stand de tir — original (gauche) et alpha (droite)](media/comparisons/mist-view15-4x3.png)](media/alpha/mist-view15-4x3.png)
 *Stand de tir du M.I.S.T. · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-view15-4x3.png)*
 
+[![Hall du stand de tir — original (gauche) et alpha (droite)](media/comparisons/mist-hall-4x3.png)](media/alpha/mist-hall-4x3.png)
+*Le hall devant le stand, ses tableaux et son panneau d’affichage · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-hall-4x3.png)*
+
 [![Salle de surveillance — original (gauche) et alpha (droite)](media/comparisons/mist-pierce-4x3.png)](media/alpha/mist-pierce-4x3.png)
 *Salle de surveillance · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-pierce-4x3.png)*
 

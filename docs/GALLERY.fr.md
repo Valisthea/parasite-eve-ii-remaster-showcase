@@ -13,6 +13,12 @@ Original à gauche, alpha précoce à droite, au cadrage de référence correspo
 
 Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-view15-4x3.png) · personnages provisoires.
 
+### Hall du stand de tir
+
+[![Comparaison : Hall du stand de tir](../media/comparisons/mist-hall-4x3.png)](../media/alpha/mist-hall-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-hall-4x3.png) · aucun personnage dans le champ.
+
 ### Salle de surveillance
 
 [![Comparaison de la salle de surveillance](../media/comparisons/mist-pierce-4x3.png)](../media/alpha/mist-pierce-4x3.png)

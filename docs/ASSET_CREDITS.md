@@ -43,6 +43,25 @@ Models from [Poly Haven](https://polyhaven.com), released under [CC0 1.0](https:
 | [Modular Airduct Rectangular 01](https://polyhaven.com/a/modular_airduct_rectangular_01) | James Ray Cock |
 | [Power Box 01](https://polyhaven.com/a/power_box_01) | Rico Cilliers, Yann Kervran |
 
+## Paintings / Tableaux — Art Institute of Chicago (CC0)
+
+The framed pictures in the range hall are public-domain paintings from the [Art Institute of Chicago open access collection](https://www.artic.edu/open-access/public-domain), released under CC0.
+
+*Les tableaux du hall du stand de tir sont des peintures du domaine public issues de l’accès ouvert de l’Art Institute of Chicago, publiées sous CC0.*
+
+| Painting | Artist, date |
+| --- | --- |
+| [Portrait of an Artist](https://www.artic.edu/artworks/862) | Follower of Frans Hals, 1644 |
+| [Canal in Venice](https://www.artic.edu/artworks/46092) | Martin Rico y Ortega, 1880s |
+| [Still Life with Flowers](https://www.artic.edu/artworks/110982) | Odilon Redon, 1905 |
+| [Italian Landscape](https://www.artic.edu/artworks/65848) | Attributed to Heinrich Reinhold, 1821–24 |
+| [Francesco de' Medici](https://www.artic.edu/artworks/24684) | Attributed to Alessandro Allori, c. 1560 |
+| [The Oude Kerk, Delft](https://www.artic.edu/artworks/24674) | Cornelis de Man, c. 1665 |
+| [Interior of St. Mark's, Venice](https://www.artic.edu/artworks/9) | David Dalhoff Neal, 1869 |
+| [Madame Roulin Rocking the Cradle (La berceuse)](https://www.artic.edu/artworks/27949) | Vincent van Gogh, 1889 |
+| [Chrysanthemums](https://www.artic.edu/artworks/16617) | Pierre-Auguste Renoir, 1881–82 |
+| [Italian Landscape with Travelers](https://www.artic.edu/artworks/69041) | Jan Both, c. 1650 |
+
 ## Engine / Moteur
 
 Rendered with [Unreal Engine](https://www.unrealengine.com). The temporary mannequins are Epic Games content supplied with the engine templates; they stand in for the characters and are not final designs.

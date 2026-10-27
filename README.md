@@ -66,6 +66,9 @@ Each board puts the **original** (left) next to the **early alpha** (right) at t
 [![Shooting range — original (left) and early alpha (right)](media/comparisons/mist-view15-4x3.png)](media/alpha/mist-view15-4x3.png)
 *M.I.S.T. shooting range · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-view15-4x3.png)*
 
+[![Range hall — original (left) and early alpha (right)](media/comparisons/mist-hall-4x3.png)](media/alpha/mist-hall-4x3.png)
+*The hall outside the range, with its framed pictures and notice board · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-hall-4x3.png)*
+
 [![Monitoring room — original (left) and early alpha (right)](media/comparisons/mist-pierce-4x3.png)](media/alpha/mist-pierce-4x3.png)
 *Monitoring room · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-pierce-4x3.png)*
 

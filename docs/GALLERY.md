@@ -13,6 +13,12 @@ Original on the left, early alpha on the right, at the matched reference framing
 
 Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-view15-4x3.png) · temporary characters.
 
+### Range hall
+
+[![Range hall comparison](../media/comparisons/mist-hall-4x3.png)](../media/alpha/mist-hall-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-hall-4x3.png) · no character in frame.
+
 ### Monitoring room
 
 [![Monitoring room comparison](../media/comparisons/mist-pierce-4x3.png)](../media/alpha/mist-pierce-4x3.png)

@@ -350,6 +350,36 @@
       "sha256": "ed2d282b76f5bd84e0bd46ab3fd5d62e4604be8c18351b95aca07ef287accc4e"
     },
     {
+      "file": "media/comparisons/mist-hall-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. range hall — original (left) and development alpha (right) at the same reference framing. No character.",
+      "caption_fr": "Hall du stand de tir du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
+      "capture_date": "2026-10-27",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f8c46b4ca931a923e2a2d40ea3026f3cd6c7fa8ed6f47c7ec05cedc91ad47de3"
+    },
+    {
+      "file": "media/alpha/mist-hall-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "M.I.S.T. range hall — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Hall du stand de tir du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "capture_date": "2026-10-27",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "source_credit": "Unreal Engine capture from the project’s current build",
+      "width": 3840,
+      "height": 2880,
+      "sha256": "8bf9f1b620d2bdff9c6eac7501c9a942174d94352b3e413aff95a0915ade905a"
+    },
+    {
       "file": "media/comparisons/akropolis-observatory-4x3.png",
       "category": "comparison_board",
       "caption_en": "Akropolis observatory colonnade, structure pass (untextured volumes, provisional lighting) — original (left) and development alpha (right) at the same reference framing. No character.",
