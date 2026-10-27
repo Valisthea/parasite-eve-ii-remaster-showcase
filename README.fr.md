@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="media/cover.png" alt="Parasite Eve II Remaster — couverture conceptuelle avec Aya à Dryfield" width="100%">
+  <img src="media/cover.png" alt="Parasite Eve II Remaster — écran titre" width="100%">
 </p>
 
-<p align="center"><sub>Illustration conceptuelle générée par IA · Direction visuelle · Ce n’est pas une capture du jeu</sub></p>
+<p align="center"><sub>Écran titre</sub></p>
 
 <h1 align="center">PARASITE EVE II · REMASTER</h1>
 
@@ -125,21 +125,6 @@ L’armurerie, avec le même cadre 4:3 :
 [![Armurerie — 16:9 avec la zone de référence 4:3 délimitée](media/wide/mist-armoury-guide.png)](media/wide/mist-armoury-16x9.png)
 
 [Autres vues en 16:9 : les stands, la salle de surveillance, le sas →](docs/GALLERY.fr.md#autres-vues-en-169)
-
-## Direction visuelle
-
-La couverture et les fiches de personnages sont des **références conceptuelles générées par IA**, distinctes des captures Unreal. Elles explorent une direction artistique ; elles ne montrent pas des personnages terminés et animés dans le jeu. Dryfield sur la couverture est une illustration conceptuelle, pas une zone jouable présentée par cette alpha.
-
-<p align="center">
-  <a href="docs/CONCEPTS.fr.md#aya-brea--direction-visuelle"><img src="media/concepts/aya.png" alt="Aya Brea — fiche conceptuelle générée par IA" width="49%"></a>
-  <a href="docs/CONCEPTS.fr.md#pierce-carradine--direction-visuelle"><img src="media/concepts/pierce.png" alt="Pierce Carradine — fiche conceptuelle générée par IA" width="49%"></a>
-  <a href="docs/CONCEPTS.fr.md#jodie-bouquet--direction-visuelle"><img src="media/concepts/jodie.png" alt="Jodie Bouquet — fiche conceptuelle générée par IA" width="49%"></a>
-  <a href="docs/CONCEPTS.fr.md#créature--direction-visuelle"><img src="media/concepts/creature.png" alt="Créature — fiche conceptuelle générée par IA" width="49%"></a>
-</p>
-
-<p align="center"><sub>Aya · Pierce · Jodie · Créature — fiches conceptuelles générées par IA · Direction visuelle · Ce ne sont pas les personnages intégrés</sub></p>
-
-[Découvrir la galerie de concepts →](docs/CONCEPTS.fr.md)
 
 ## La suite
 

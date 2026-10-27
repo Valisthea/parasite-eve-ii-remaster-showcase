@@ -109,5 +109,3 @@ Each image is a native 16:9 render at an original fixed camera. The green frame 
 [![Airlock vestibule — 16:9 with the 4:3 reference area outlined](../media/wide/mist-vestibule-guide.png)](../media/wide/mist-vestibule-16x9.png)
 
 [native 16:9 capture 3840 × 2160](../media/wide/mist-vestibule-16x9.png)
-
-Concept artwork is collected in the [separate concept gallery](CONCEPTS.md).

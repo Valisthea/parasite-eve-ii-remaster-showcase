@@ -97,7 +97,7 @@ It is an experiment, not a final cutscene.
 
 The base animated in the lab is only a stand-in. For Aya herself, I have explored several approaches: preparing base models, reworking them in Blender, and conforming them onto a rigged character base. Her likeness, face, hair, clothing, facial rig and some deformations are still to be finalised.
 
-Neither the temporary base nor the [concept sheet](CONCEPTS.md#aya-brea--visual-direction) is the playable final model.
+The temporary base is not the playable final model.
 
 ### How it is checked
 

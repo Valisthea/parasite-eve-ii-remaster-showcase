@@ -4,7 +4,7 @@
 
 **Original work:** Parasite Eve II, its characters, names and original imagery belong to their respective creators and rights holders. This showcase does not distribute the original game, its executable or extracted asset libraries.
 
-**Concept artwork:** the cover and four character/creature sheets were supplied by the project creator and generated with AI assistance. They are visual references, not finished models or screenshots of implemented game content.
+**Title screen:** the cover image was supplied by the project creator and generated with AI assistance.
 
 **Engine captures:** selected images are rendered in Unreal Engine. The mannequins are temporary. Third-party models visible in the environment are credited with their authors, sources and licences in [docs/ASSET_CREDITS.md](docs/ASSET_CREDITS.md).
 
@@ -16,6 +16,6 @@
 
 Projet de fan indépendant et non officiel, sans affiliation ni approbation de Square Enix. Parasite Eve II, ses personnages, ses noms et ses images d’origine appartiennent à leurs créateurs et ayants droit respectifs.
 
-La couverture et les fiches sont des concepts générés avec l’aide d’outils d’IA. Les captures du prototype sont rendues dans Unreal Engine ; les modèles tiers visibles sont crédités, avec leurs auteurs, sources et licences, dans [docs/ASSET_CREDITS.md](docs/ASSET_CREDITS.md).
+L’écran titre de la couverture a été fourni par le créateur du projet et généré avec l’aide d’outils d’IA. Les captures du prototype sont rendues dans Unreal Engine ; les modèles tiers visibles sont crédités, avec leurs auteurs, sources et licences, dans [docs/ASSET_CREDITS.md](docs/ASSET_CREDITS.md).
 
 Cette vitrine ne distribue pas le jeu original ni une bibliothèque de ses ressources extraites. Elle n’accorde pas de licence générale sur les images ou les ressources tierces représentées.

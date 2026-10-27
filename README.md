@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="media/cover.png" alt="Parasite Eve II Remaster — Aya and Dryfield concept cover" width="100%">
+  <img src="media/cover.png" alt="Parasite Eve II Remaster — title screen" width="100%">
 </p>
 
-<p align="center"><sub>AI-generated concept artwork · Visual direction · Not an in-game screenshot</sub></p>
+<p align="center"><sub>Title screen</sub></p>
 
 <h1 align="center">PARASITE EVE II · REMASTER</h1>
 
@@ -125,21 +125,6 @@ The armoury, with the same 4:3 frame:
 [![Armoury — 16:9 with the 4:3 reference area outlined](media/wide/mist-armoury-guide.png)](media/wide/mist-armoury-16x9.png)
 
 [More widescreen views: the stands, the monitoring room, the airlock →](docs/GALLERY.md#more-widescreen-views)
-
-## Visual direction
-
-The cover and the character sheets are **AI-generated concept references**, separate from the Unreal captures. They explore a visual direction; they do not show completed, animated game characters. Dryfield on the cover is concept artwork, not a playable area demonstrated by this alpha.
-
-<p align="center">
-  <a href="docs/CONCEPTS.md#aya-brea--visual-direction"><img src="media/concepts/aya.png" alt="Aya Brea — AI-generated concept sheet" width="49%"></a>
-  <a href="docs/CONCEPTS.md#pierce-carradine--visual-direction"><img src="media/concepts/pierce.png" alt="Pierce Carradine — AI-generated concept sheet" width="49%"></a>
-  <a href="docs/CONCEPTS.md#jodie-bouquet--visual-direction"><img src="media/concepts/jodie.png" alt="Jodie Bouquet — AI-generated concept sheet" width="49%"></a>
-  <a href="docs/CONCEPTS.md#creature--visual-direction"><img src="media/concepts/creature.png" alt="Creature — AI-generated concept sheet" width="49%"></a>
-</p>
-
-<p align="center"><sub>Aya · Pierce · Jodie · Creature — AI-generated concept sheets · Visual direction · Not the implemented characters</sub></p>
-
-[Explore the concept gallery →](docs/CONCEPTS.md)
 
 ## What comes next
 

@@ -109,5 +109,3 @@ Chaque image est un rendu natif 16:9 depuis une caméra fixe d’origine. Le cad
 [![Sas-vestibule — 16:9 avec la zone de référence 4:3 délimitée](../media/wide/mist-vestibule-guide.png)](../media/wide/mist-vestibule-16x9.png)
 
 [capture native 16:9 3840 × 2160](../media/wide/mist-vestibule-16x9.png)
-
-Les illustrations conceptuelles sont réunies dans la [galerie de concepts](CONCEPTS.fr.md).

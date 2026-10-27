@@ -14,4 +14,4 @@ You do not need a game-development PC to offer useful feedback. This repository 
 
 Il n’est pas nécessaire de posséder un PC de développement pour contribuer avec des observations utiles. Ce dépôt est une vitrine ; les fichiers du jeu original, ressources extraites et exécutables ne sont pas acceptés dans les contributions.
 
-Keep feedback respectful and specific. A screenshot’s resolution is not a promise of gameplay performance. Character concepts and development captures have different purposes; refer to their captions.
+Keep feedback respectful and specific. A screenshot’s resolution is not a promise of gameplay performance. The title screen and development captures have different purposes; refer to their captions.

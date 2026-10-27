@@ -97,7 +97,7 @@ C’est une expérimentation, pas une cinématique définitive.
 
 La base animée dans le laboratoire n’est qu’une doublure. Pour Aya elle-même, j’ai exploré plusieurs pistes : préparer des modèles de base, les retoucher dans Blender, puis les conformer sur une base de personnage riggée. La ressemblance, le visage, les cheveux, les vêtements, le rig facial et certaines déformations restent à finaliser.
 
-Ni la base provisoire ni la [fiche conceptuelle](CONCEPTS.fr.md#aya-brea--direction-visuelle) ne sont le modèle jouable définitif.
+La base provisoire n’est pas le modèle jouable définitif.
 
 ### Comment c’est vérifié
 
