@@ -2,9 +2,9 @@
 
 [Image notes](../NOTICE.md)
 
-The title screen on the cover was supplied by the project creator and generated with AI assistance. Engine screenshots show a work-in-progress scene with temporary Unreal mannequins; the pictures added in October 2026 show no character. The Akropolis volumes are modelled for this project. Most surfaces, signs, notices and printed documents in the scene are created for this project; the third-party resources below are visible in some of the images.
+The title screen on the cover was supplied by the project creator. Engine screenshots show a work-in-progress scene with temporary Unreal mannequins; the pictures added in October 2026 show no character. The Akropolis volumes are modelled for this project. Most surfaces, signs, notices and printed documents in the scene are created for this project; the third-party resources below are visible in some of the images.
 
-*L’écran titre de la couverture a été fourni par le créateur du projet et généré avec l’aide d’outils d’IA. Les captures du moteur montrent une scène en cours de développement avec des mannequins Unreal provisoires ; les images ajoutées en octobre 2026 ne montrent aucun personnage. Les volumes d’Akropolis sont modélisés pour ce projet. La plupart des surfaces, panneaux, affiches et documents imprimés sont créés pour ce projet ; les ressources tierces ci-dessous apparaissent dans certaines images.*
+*L’écran titre de la couverture a été fourni par le créateur du projet. Les captures du moteur montrent une scène en cours de développement avec des mannequins Unreal provisoires ; les images ajoutées en octobre 2026 ne montrent aucun personnage. Les volumes d’Akropolis sont modélisés pour ce projet. La plupart des surfaces, panneaux, affiches et documents imprimés sont créés pour ce projet ; les ressources tierces ci-dessous apparaissent dans certaines images.*
 
 ## Weapon models / Modèles d’armes
 
