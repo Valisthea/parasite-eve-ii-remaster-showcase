@@ -264,7 +264,7 @@
       "category": "comparison_board",
       "caption_en": "M.I.S.T. armoury — original (left) and development alpha (right) at the same reference framing. No character.",
       "caption_fr": "Armurerie du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
@@ -274,27 +274,27 @@
       ],
       "width": 3840,
       "height": 2160,
-      "sha256": "43ce5cb887068c0049f843c47af472ec38f4befc4c2492c9a4a286aa77e6cc27"
+      "sha256": "bfd31847a3eb892cb9615f64c2f173ac039d1dfd533faef6907c8e93ccfb4ff8"
     },
     {
       "file": "media/alpha/mist-armoury-4x3.png",
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. armoury — development alpha, native 4:3 render. No character.",
       "caption_fr": "Armurerie du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2880,
-      "sha256": "a59962237d137946753af9fd991ca38dc33544f8f337ba369ae3cb63b188990f"
+      "sha256": "4ee432612220e8074f86e048a7608ab083e34913d9e333328314e9d3f8ec6afb"
     },
     {
       "file": "media/comparisons/mist-restricted-door-4x3.png",
       "category": "comparison_board",
       "caption_en": "M.I.S.T. restricted area door — original (left) and development alpha (right) at the same reference framing. No character.",
       "caption_fr": "Porte de la zone d’accès restreint du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
@@ -304,27 +304,27 @@
       ],
       "width": 3840,
       "height": 2160,
-      "sha256": "f8c4aad934a30d5ec2a397fea1c27bd8958c72c2df791a799bc0acfcad011035"
+      "sha256": "995615a4d928bfef9469aa7deebfd7134557313b22040182610c7831dcebe0e8"
     },
     {
       "file": "media/alpha/mist-restricted-door-4x3.png",
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. restricted area door — development alpha, native 4:3 render. No character.",
       "caption_fr": "Porte de la zone d’accès restreint du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2880,
-      "sha256": "24d9adf404b11f0c542a7eb8c842c2f7f68c8b1927a55d61aaafd9d00f611251"
+      "sha256": "db50bfd757c73123bb49f73f734dbcea317c1221a7fe5b00932d2050a38c3778"
     },
     {
       "file": "media/comparisons/mist-corridor-4x3.png",
       "category": "comparison_board",
       "caption_en": "M.I.S.T. service corridor — original (left) and development alpha (right) at the same reference framing. No character.",
       "caption_fr": "Couloir de service du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
@@ -334,27 +334,27 @@
       ],
       "width": 3840,
       "height": 2160,
-      "sha256": "7ccedc0925cd1ebb0e58223221b660e06b045b4679bbe1b16e8fc8ac63b985fc"
+      "sha256": "15d9c93046a54e14b058d472d6eecd3d209e06612201253a7c22a2a8537e197b"
     },
     {
       "file": "media/alpha/mist-corridor-4x3.png",
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. service corridor — development alpha, native 4:3 render. No character.",
       "caption_fr": "Couloir de service du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2880,
-      "sha256": "ed2d282b76f5bd84e0bd46ab3fd5d62e4604be8c18351b95aca07ef287accc4e"
+      "sha256": "74ec6ee67310af146e502517574b43f2f26b887480dfe97025c56f03a91e929a"
     },
     {
       "file": "media/comparisons/mist-hall-4x3.png",
       "category": "comparison_board",
       "caption_en": "M.I.S.T. range hall — original (left) and development alpha (right) at the same reference framing. No character.",
       "caption_fr": "Hall du stand de tir du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
-      "capture_date": "2026-10-27",
+      "capture_date": "2026-10-28",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
@@ -364,20 +364,20 @@
       ],
       "width": 3840,
       "height": 2160,
-      "sha256": "f8c46b4ca931a923e2a2d40ea3026f3cd6c7fa8ed6f47c7ec05cedc91ad47de3"
+      "sha256": "67243de3d386df851ff0514cc4c70dc489490380018edeb7a16655eb76724c07"
     },
     {
       "file": "media/alpha/mist-hall-4x3.png",
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. range hall — development alpha, native 4:3 render. No character.",
       "caption_fr": "Hall du stand de tir du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "capture_date": "2026-10-27",
+      "capture_date": "2026-10-28",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2880,
-      "sha256": "8bf9f1b620d2bdff9c6eac7501c9a942174d94352b3e413aff95a0915ade905a"
+      "sha256": "7a0fee5a1b19b168a5baa55e68e8f969d638c60a849f617a71e530d4b503292e"
     },
     {
       "file": "media/comparisons/akropolis-observatory-4x3.png",
@@ -513,26 +513,26 @@
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. armoury — development alpha, native 16:9 render. No character.",
       "caption_fr": "Armurerie du M.I.S.T. — alpha de développement, rendu natif 16:9. Aucun personnage.",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2160,
-      "sha256": "7ad17a475b59c88f12ac3b5b38b2f660ce6d3321f5c93690a98d57b764f0203b"
+      "sha256": "a85598e1d285f5ecd4dce16fde233d49d27273747b9cd95bc8fd0ff0118f788f"
     },
     {
       "file": "media/wide/mist-armoury-guide.png",
       "category": "framing_guide",
       "caption_en": "Armoury: 16:9 capture with the 4:3 reference area outlined (2880 px centred, 480 px on each side).",
       "caption_fr": "Armurerie : capture 16:9 avec la zone de référence 4:3 délimitée (2880 px au centre, 480 px de chaque côté).",
-      "capture_date": "2026-10-20",
+      "capture_date": "2026-10-28",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2160,
-      "sha256": "7c8f67b30ca05d3a35d3117f731bd0d9fbadeb30751dbb0b8ceedcd6c67aaf15"
+      "sha256": "00662afff479dff94d2ff86832b1acf6a3a71ce9eca55e0820496535fa4c3356"
     }
   ]
 }
