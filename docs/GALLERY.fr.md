@@ -2,6 +2,8 @@
 
 [Projet](../README.fr.md) · [English](GALLERY.md)
 
+Voir aussi l’[évolution en images](EVOLUTION.fr.md) de chaque plan du M.I.S.T. au fil d’octobre 2026.
+
 ## Comparaisons aux mêmes cadrages
 
 <!-- GALLERY_START -->

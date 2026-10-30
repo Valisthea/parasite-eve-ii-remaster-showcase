@@ -559,6 +559,346 @@
       "width": 3840,
       "height": 2160,
       "sha256": "00662afff479dff94d2ff86832b1acf6a3a71ce9eca55e0820496535fa4c3356"
+    },
+    {
+      "file": "media/evolution/mist-evolution-monitoring-room.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. hall, north side · monitoring room (view 2) — the original frame and development captures of 10 Oct, 14 Oct and 30 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., hall, côté nord · salle de surveillance (plan 2) — l’image originale et les captures de développement des 10 oct., 14 oct. et 30 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-30",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "fd46a19a92f29056d8fc4673deb7d7e514d6eabe3e92c70aa0d9866328a1b47b"
+    },
+    {
+      "file": "media/evolution/mist-evolution-hall.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. hall, south side (view 3) — the original frame and development captures of 9 Oct, 20 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., hall, côté sud (plan 3) — l’image originale et les captures de développement des 9 oct., 20 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "39e4189779c026f7b715268ca78dc311f5f4a7fd2c09e9f1a1801a136a311cc6"
+    },
+    {
+      "file": "media/evolution/mist-evolution-hall-end.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. hall, south end (view 4) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., hall, extrémité sud (plan 4) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "b1dfc7648871eaadf7d152c9a76775efde8602752ddcf6ca228b2db6af18251a"
+    },
+    {
+      "file": "media/evolution/mist-evolution-airlock-door.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. airlock, exit doors (view 5) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., sas, portes de sortie (plan 5) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "60796bfcc17284f987760d03123a19d12465d465ff0e517968a51e3b8806436e"
+    },
+    {
+      "file": "media/evolution/mist-evolution-vestibule.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. airlock, gun cabinet (view 6) — the original frame and development captures of 9 Oct, 20 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., sas, armoire à fusils (plan 6) — l’image originale et les captures de développement des 9 oct., 20 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "2faacc52996cd424ebc1286188faa4833168dd733ccc2c80d442b0b3135d4542"
+    },
+    {
+      "file": "media/evolution/mist-evolution-back-room-north.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. back room, from the north (view 7) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., arrière-salle, vue du nord (plan 7) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "f80b570ea67f7723e1becbd9222649dcc8df307450b4ae8d166c0cd762204986"
+    },
+    {
+      "file": "media/evolution/mist-evolution-back-room-south.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. back room, from the south (view 8) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., arrière-salle, vue du sud (plan 8) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "692ce6659fa40e2f83a00e913d6d5ee39c6b52ce17a8950de08fff4fce590cf9"
+    },
+    {
+      "file": "media/evolution/mist-evolution-range-length.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, the full length (view 9) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., champ de tir, sur toute sa longueur (plan 9) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "66e2ef47acf9f173b4ddb0d550fd0c8c77939ad2b3efe73c0056f7c054dd8810"
+    },
+    {
+      "file": "media/evolution/mist-evolution-range-lane.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, down the lanes (view 10) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., champ de tir, le long des couloirs (plan 10) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "65a26816aee7560e68c1d7c74d531f03ce0191397185c68f708d708b74a99ad9"
+    },
+    {
+      "file": "media/evolution/mist-evolution-range-far-wall.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, far wall (view 11) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., champ de tir, mur du fond (plan 11) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "cb01251b94b4d22d8f85205d763aee196804c51723cecc15cb160769ee30db22"
+    },
+    {
+      "file": "media/evolution/mist-evolution-range-bay-west.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, side bay (view 12) — the original frame and development captures of 9 Oct, 14 Oct and 30 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., champ de tir, baie latérale (plan 12) — l’image originale et les captures de développement des 9 oct., 14 oct. et 30 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-30",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "d4fd2c61e6090c574d27f121fbe9dae2ca5903b1244f56a332564963e466ff49"
+    },
+    {
+      "file": "media/evolution/mist-evolution-range-bay-east.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, other side bay (view 13) — the original frame and development captures of 9 Oct, 14 Oct and 30 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., champ de tir, autre baie latérale (plan 13) — l’image originale et les captures de développement des 9 oct., 14 oct. et 30 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-30",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "fad1e4b19a5f2f1f3fb168681b9ad792559bc34dbff3279065c07ca05291ac87"
+    },
+    {
+      "file": "media/evolution/mist-evolution-firing-line.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, the firing line (view 14) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., champ de tir, la ligne de tir (plan 14) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "aea7d35552381ebb1e61c1c153c9015cb8c753efc48a50c06c9a8703ccdce1c3"
+    },
+    {
+      "file": "media/evolution/mist-evolution-view15.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. the counter seen from the stand (view 15) (view 15) — the original frame and development captures of 10 Oct, 14 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., le comptoir vu du poste (VIEW 15) (plan 15) — l’image originale et les captures de développement des 10 oct., 14 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "e7280e896887a5b985e0a47b85c74c72e36acb657690e495355cdd864c1a192d"
+    },
+    {
+      "file": "media/evolution/mist-evolution-stand-side.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. the stand seen from the side (view 17) — the original frame and development captures of 8 Oct, 14 Oct and 30 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., le poste vu de côté (plan 17) — l’image originale et les captures de développement des 8 oct., 14 oct. et 30 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-30",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "be3ee6835e01d309f5924cda2a7201bff830e9e344e39f02de5d9dcc6cfe650f"
+    },
+    {
+      "file": "media/evolution/mist-evolution-range-return.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. shooting range, toward the counter (view 18) — the original frame and development captures of 9 Oct, 14 Oct and 28 Oct 2026 at the same framing. No character.",
+      "caption_fr": "M.I.S.T., champ de tir, vers le comptoir (plan 18) — l’image originale et les captures de développement des 9 oct., 14 oct. et 28 oct. 2026 au même cadrage. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "51c4b6ec08eb0e1aaebcd23d93e5f6dbf1f21d6e69ec1813b9048168eaa21a51"
+    },
+    {
+      "file": "media/evolution/mist-evolution-corridor.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. corridor toward the parking (view 22) — the original frame and development captures of 10 Oct, 20 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., couloir vers le parking (plan 22) — l’image originale et les captures de développement des 10 oct., 20 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "6270270e1df2fe7d584ce1445b2e9f02ee78a33ae85411b2e4d819cfc76740fc"
+    },
+    {
+      "file": "media/evolution/mist-evolution-restricted-door.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. restricted area door (view 23) — the original frame and development captures of 10 Oct, 20 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., porte de la zone restreinte (plan 23) — l’image originale et les captures de développement des 10 oct., 20 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "3e67407972c0f01b1afdf6b79aac7e413767efe79d675e4b67584cb40e1e4ba0"
+    },
+    {
+      "file": "media/evolution/mist-evolution-armoury.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. armoury (view 24) — the original frame and development captures of 10 Oct, 20 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., armurerie (plan 24) — l’image originale et les captures de développement des 10 oct., 20 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "973f7065327fd84ac488ebf50a7c18e710c176f396056ff66b9a97409d34a6df"
+    },
+    {
+      "file": "media/evolution/mist-evolution-parking-area-a.jpg",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. parking, area a (view 28) — the original frame and development captures of 10 Oct, 14 Oct and 30 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., parking, zone A (plan 28) — l’image originale et les captures de développement des 10 oct., 14 oct. et 30 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-30",
+      "native_render_4k": false,
+      "temporary_characters": true,
+      "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
+      "original_reference_resolution": [
+        320,
+        240
+      ],
+      "width": 3200,
+      "height": 2734,
+      "sha256": "03f39a0e9c40d3b87f351d0ca7aad81350c948b211de18d5b494efde9b0d7985"
     }
   ]
 }

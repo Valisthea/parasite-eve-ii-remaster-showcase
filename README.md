@@ -30,6 +30,8 @@ This repository is a public progress showcase. The project is an **early develop
 
 **This repository is the best place to follow the project.** It is updated as the work moves on, with new comparisons, native captures and dated progress notes.
 
+**[Visual evolution](docs/EVOLUTION.md).** Every fixed view of M.I.S.T. through October, from the first complete build to today, at the same framing as the original.
+
 <p align="center"><a href="media/comparisons/mist-armoury-detail-4x3.png"><img src="media/comparisons/mist-armoury-detail-4x3.png" alt="M.I.S.T. armoury — the same fixed view before (left) and after (right) the detail pass" width="100%"></a></p>
 
 <p align="center"><sub>The M.I.S.T. armoury · the same fixed view before (20 October) and after (28 October) the detail pass · board 3840 × 2160 · <a href="media/alpha/mist-armoury-before-4x3.png">before</a> · <a href="media/alpha/mist-armoury-4x3.png">after</a></sub></p>

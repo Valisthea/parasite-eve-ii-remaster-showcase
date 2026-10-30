@@ -2,6 +2,8 @@
 
 [Project](../README.md) · [Français](GALLERY.fr.md)
 
+See also the [visual evolution](EVOLUTION.md) of every M.I.S.T. view through October 2026.
+
 ## Matched comparisons
 
 <!-- GALLERY_START -->
