@@ -33,15 +33,15 @@
     {
       "file": "media/comparisons/mist-pierce-4x3.png",
       "category": "comparison_board",
-      "caption_en": "Monitoring room — original (left) and development alpha (right) at the same reference framing. Temporary character.",
-      "caption_fr": "Salle de surveillance — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Personnage provisoire.",
+      "caption_en": "Monitoring room — original (left) and development alpha (right) at the same reference framing. No character.",
+      "caption_fr": "Salle de surveillance — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
       "width": 3840,
       "height": 2160,
-      "capture_date": "2026-10-09",
+      "capture_date": "2026-10-30",
       "native_render_4k": false,
-      "temporary_characters": true,
+      "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
-      "sha256": "8091848e06d8467d306320a862cec85257cba6987ca0a38c91adf22166113cd8",
+      "sha256": "084c177a4a6f11ff79938811ae48d2e1c8372bdf6aebbdb53626a6908c99149b",
       "original_reference_resolution": [
         320,
         240
@@ -80,15 +80,15 @@
     {
       "file": "media/alpha/mist-pierce-4x3.png",
       "category": "native_alpha_capture",
-      "caption_en": "Monitoring room — development alpha, native 4:3 render. Temporary character.",
-      "caption_fr": "Salle de surveillance — alpha de développement, rendu natif 4:3. Personnage provisoire.",
+      "caption_en": "Monitoring room — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Salle de surveillance — alpha de développement, rendu natif 4:3. Aucun personnage.",
       "width": 3840,
       "height": 2880,
-      "capture_date": "2026-10-09",
+      "capture_date": "2026-10-30",
       "native_render_4k": true,
-      "temporary_characters": true,
+      "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
-      "sha256": "f51fc66d592957949ce446c494ae089a3d4d51c4ca17de9660690f951f7ecf9d"
+      "sha256": "fa1c10661593e9fba54cb3c332421ae95657e0fbcde31b9dcbce8c404725db50"
     },
     {
       "file": "media/alpha/mist-vestibule-4x3.png",
@@ -210,28 +210,28 @@
     {
       "file": "media/wide/mist-pierce-16x9.png",
       "category": "native_alpha_capture",
-      "caption_en": "Monitoring room — development alpha, native 16:9 render at the original camera, with the vertical field of view of the 4:3 reference. Temporary characters.",
-      "caption_fr": "Salle de surveillance — alpha de développement, rendu natif 16:9 à la caméra d’origine, au champ de vision vertical de la référence 4:3. Personnages provisoires.",
+      "caption_en": "Monitoring room — development alpha, native 16:9 render at the original camera, with the vertical field of view of the 4:3 reference. No character.",
+      "caption_fr": "Salle de surveillance — alpha de développement, rendu natif 16:9 à la caméra d’origine, au champ de vision vertical de la référence 4:3. Aucun personnage.",
       "width": 3840,
       "height": 2160,
-      "capture_date": "2026-10-09",
+      "capture_date": "2026-10-30",
       "native_render_4k": true,
-      "temporary_characters": true,
+      "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
-      "sha256": "d60ea8228180ccf30443bac7cab350714f6cdf8b9d47119b4214a805517f066f"
+      "sha256": "3c675dc696eb57a46ca79c18ffe1d22f0b966cef7e4c180e8a328cdc10490ba5"
     },
     {
       "file": "media/wide/mist-pierce-guide.png",
       "category": "framing_guide",
-      "caption_en": "Monitoring room — 16:9 capture with the 4:3 reference area outlined (2880 px centred, 480 px on each side). Temporary characters.",
-      "caption_fr": "Salle de surveillance — capture 16:9 avec la zone de référence 4:3 délimitée (2880 px au centre, 480 px de chaque côté). Personnages provisoires.",
+      "caption_en": "Monitoring room — 16:9 capture with the 4:3 reference area outlined (2880 px centred, 480 px on each side). No character.",
+      "caption_fr": "Salle de surveillance — capture 16:9 avec la zone de référence 4:3 délimitée (2880 px au centre, 480 px de chaque côté). Aucun personnage.",
       "width": 3840,
       "height": 2160,
-      "capture_date": "2026-10-09",
+      "capture_date": "2026-10-30",
       "native_render_4k": false,
-      "temporary_characters": true,
+      "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
-      "sha256": "90683b1c0ffaca065cc98705ccc56032f864cacc07f239ee3f585515df655385"
+      "sha256": "bb6e275de314d0640b8732a9db7d2a0e30b243c93b058b5e659c8957ec15c3b5"
     },
     {
       "file": "media/wide/mist-vestibule-16x9.png",
@@ -264,7 +264,7 @@
       "category": "comparison_board",
       "caption_en": "M.I.S.T. armoury — original (left) and development alpha (right) at the same reference framing. No character.",
       "caption_fr": "Armurerie du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
-      "capture_date": "2026-10-28",
+      "capture_date": "2026-10-30",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
@@ -274,13 +274,26 @@
       ],
       "width": 3840,
       "height": 2160,
-      "sha256": "bfd31847a3eb892cb9615f64c2f173ac039d1dfd533faef6907c8e93ccfb4ff8"
+      "sha256": "9e3a77dd4c52713b4fa140da14bf9e81b25fdca2ea3055d5439340b6e4118ff4"
     },
     {
       "file": "media/alpha/mist-armoury-4x3.png",
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. armoury — development alpha, native 4:3 render. No character.",
       "caption_fr": "Armurerie du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "capture_date": "2026-10-30",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "source_credit": "Unreal Engine capture from the project’s current build",
+      "width": 3840,
+      "height": 2880,
+      "sha256": "044d3cd88ce68234f860d0056a4df4b205111fd2a5c53ba332614b2ac85b03d9"
+    },
+    {
+      "file": "media/alpha/mist-armoury-after-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "M.I.S.T. armoury after the detail pass of 28 October — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Armurerie du M.I.S.T. après la passe de détail du 28 octobre — alpha de développement, rendu natif 4:3. Aucun personnage.",
       "capture_date": "2026-10-28",
       "native_render_4k": true,
       "temporary_characters": false,
@@ -539,26 +552,26 @@
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. armoury — development alpha, native 16:9 render. No character.",
       "caption_fr": "Armurerie du M.I.S.T. — alpha de développement, rendu natif 16:9. Aucun personnage.",
-      "capture_date": "2026-10-28",
+      "capture_date": "2026-10-30",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2160,
-      "sha256": "a85598e1d285f5ecd4dce16fde233d49d27273747b9cd95bc8fd0ff0118f788f"
+      "sha256": "b621482a7d53972d9526cb927ca6202e23843df4059626d73fbf15c8c6ace285"
     },
     {
       "file": "media/wide/mist-armoury-guide.png",
       "category": "framing_guide",
       "caption_en": "Armoury: 16:9 capture with the 4:3 reference area outlined (2880 px centred, 480 px on each side).",
       "caption_fr": "Armurerie : capture 16:9 avec la zone de référence 4:3 délimitée (2880 px au centre, 480 px de chaque côté).",
-      "capture_date": "2026-10-28",
+      "capture_date": "2026-10-30",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2160,
-      "sha256": "00662afff479dff94d2ff86832b1acf6a3a71ce9eca55e0820496535fa4c3356"
+      "sha256": "2e87e2ec369e632ae5717598692c03f353acd4f6ed53c71752c32308a9cfa105"
     },
     {
       "file": "media/evolution/mist-evolution-monitoring-room.jpg",
@@ -575,7 +588,7 @@
       ],
       "width": 3200,
       "height": 2734,
-      "sha256": "fd46a19a92f29056d8fc4673deb7d7e514d6eabe3e92c70aa0d9866328a1b47b"
+      "sha256": "0e88a4d7803cad2c0edf0099ff6e93674cdcdc08307f011a3af5f6e6f0508ea6"
     },
     {
       "file": "media/evolution/mist-evolution-hall.jpg",
@@ -869,9 +882,9 @@
     {
       "file": "media/evolution/mist-evolution-armoury.jpg",
       "category": "comparison_board",
-      "caption_en": "M.I.S.T. armoury (view 24) — the original frame and development captures of 10 Oct, 20 Oct and 28 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
-      "caption_fr": "M.I.S.T., armurerie (plan 24) — l’image originale et les captures de développement des 10 oct., 20 oct. et 28 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
-      "capture_date": "2026-10-28",
+      "caption_en": "M.I.S.T. armoury (view 24) — the original frame and development captures of 10 Oct, 20 Oct and 30 Oct 2026 at the same framing. Temporary mannequin on the early capture.",
+      "caption_fr": "M.I.S.T., armurerie (plan 24) — l’image originale et les captures de développement des 10 oct., 20 oct. et 30 oct. 2026 au même cadrage. Mannequin provisoire sur la première capture.",
+      "capture_date": "2026-10-30",
       "native_render_4k": false,
       "temporary_characters": true,
       "source_credit": "Original reference (top left, rights holders) and Unreal Engine captures from the project’s builds of October 2026",
@@ -881,7 +894,7 @@
       ],
       "width": 3200,
       "height": 2734,
-      "sha256": "973f7065327fd84ac488ebf50a7c18e710c176f396056ff66b9a97409d34a6df"
+      "sha256": "5b0caf7ed9bed22a5837b3665c1486bf6847c2ba960b1f2a43c3c5ac257fa11d"
     },
     {
       "file": "media/evolution/mist-evolution-parking-area-a.jpg",

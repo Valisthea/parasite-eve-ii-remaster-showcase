@@ -19,6 +19,18 @@ Work progresses in focused passes: build, compare, test, then correct. Screensho
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
 
+## M.I.S.T. monitoring room and armoury — update of 30 October 2026
+
+**The monitoring room.** The gun display at the back of the room is rebuilt from the original frame, measured on it point by point: a low unit along the back wall with four light tiers sloping toward the room and five bays. Each handgun lies on felt, held by a security cable through its trigger guard, with a printed tag; one bay is empty, its gun signed out. A dark fin in front of the desk, which the original never draws, became the desk’s end panel, and the wall above the display is darker, as in the original.
+
+**The armoury.** The cage follows the original frame: one header rail across the whole width, two light posts and nothing in between, a dark gate with its middle rail. The counter is closed by the mesh, with a single framed pass-through in front of the armourer: things go through, people do not. The paperwork, the phone, the trays and the field-stripped pistol moved to the armourer’s worktop behind the mesh; the customers’ side keeps only what the original shows there (the binders, a few loose sheets, a carton of rounds).
+
+**Light and shadows.** A lamp inside the cage throws the mesh’s diamonds, the header and the gate’s top rail onto the north wall, where the original shows them, and the customers’ side is lit brighter for play.
+
+**Updated pictures.** The monitoring room and armoury comparisons, their native captures and widescreen views, and the two matching boards of the [visual evolution](EVOLUTION.md).
+
+[![The armoury — original (left) and alpha (right)](../media/comparisons/mist-armoury-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
 ## M.I.S.T. materials and the armoury — update of 28 October 2026
 
 **Materials.** The surfaces of M.I.S.T. move from procedural textures to photographed ones (public-domain scans), recoloured to the original palette so the rooms keep their look. Where a surface carries a unique design (the range’s wall panels, the floor plates, painted wear), that design is kept and only the photographed grain is added. Tiled floors get their wear from one photographed layer spread over the whole room, so no mark repeats from tile to tile.
@@ -27,7 +39,7 @@ There is no release ETA. Voice acting, cinematic work and expansion beyond the c
 
 **Updated pictures.** The corridor, restricted door, armoury and hall comparisons were re-rendered; a before/after board shows the armoury pass.
 
-[![The armoury before and after the detail pass](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+[![The armoury before and after the detail pass](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-after-4x3.png)
 
 ## M.I.S.T., destruction and Akropolis — update of 20 October 2026
 

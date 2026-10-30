@@ -28,13 +28,15 @@ Ce dépôt présente les avancées du projet. Il s’agit d’une **alpha de dé
 
 **Une armurerie détaillée.** Une cage en grillage galvanisé tissé, avec ses fixations, ses boulons, ses charnières et son cadenas ; des classeurs usés, des feuilles qui gondolent, un carton cabossé et les petits objets d’un vrai bureau ; de vraies ombres qui posent chaque objet sur son support.
 
+**La salle de surveillance et l’armurerie, recalées sur l’original (30 octobre).** Le présentoir à pistolets de la salle de surveillance est refait d’après l’image originale : quatre gradins inclinés, les armes posées à plat et câblées. Dans l’armurerie, la cage suit maintenant l’original : un seul rail haut, un portillon sombre, et le comptoir fermé par le grillage avec un unique passe-objets. Les papiers du bureau sont passés du côté de l’armurière, et une lampe dans la cage projette l’ombre du grillage sur le mur, comme dans l’original. [Détails](docs/PROGRESS.fr.md#salle-de-surveillance-et-armurerie-du-mist--point-du-30-octobre-2026)
+
 **Ce dépôt est le meilleur endroit pour suivre le projet.** Il est mis à jour au fil du travail, avec de nouvelles comparaisons, des captures natives et des notes d’avancement datées.
 
 **[Évolution en images](docs/EVOLUTION.fr.md).** Chaque plan fixe du M.I.S.T. au fil d’octobre, de la première version complète à aujourd’hui, au même cadrage que l’original.
 
 <p align="center"><a href="media/comparisons/mist-armoury-detail-4x3.png"><img src="media/comparisons/mist-armoury-detail-4x3.png" alt="Armurerie du M.I.S.T. — le même plan fixe avant (gauche) et après (droite) la passe de détail" width="100%"></a></p>
 
-<p align="center"><sub>L’armurerie du M.I.S.T. · le même plan fixe avant (20 octobre) et après (28 octobre) la passe de détail · planche 3840 × 2160 · <a href="media/alpha/mist-armoury-before-4x3.png">avant</a> · <a href="media/alpha/mist-armoury-4x3.png">après</a></sub></p>
+<p align="center"><sub>L’armurerie du M.I.S.T. · le même plan fixe avant (20 octobre) et après (28 octobre) la passe de détail · planche 3840 × 2160 · <a href="media/alpha/mist-armoury-before-4x3.png">avant</a> · <a href="media/alpha/mist-armoury-after-4x3.png">après</a></sub></p>
 
 ## Nouveautés · octobre 2026
 

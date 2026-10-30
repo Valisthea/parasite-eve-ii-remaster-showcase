@@ -28,13 +28,15 @@ This repository is a public progress showcase. The project is an **early develop
 
 **A detailed armoury.** A woven galvanised cage with its fittings, bolts, hinges and padlock; worn binders, curling paper, a battered carton and the small things of a working desk; real shadows that set every object on its surface.
 
+**The monitoring room and the armoury, refitted to the original (30 October).** The monitoring room’s gun display is rebuilt from the original frame: four sloping tiers, the handguns laid flat and cabled. In the armoury, the cage now follows the original: one header rail, a dark gate, and the counter closed by the mesh with a single pass-through. The desk’s paperwork has moved to the armourer’s side, and a lamp inside the cage casts the mesh’s shadow on the wall, as in the original. [Details](docs/PROGRESS.md#mist-monitoring-room-and-armoury--update-of-30-october-2026)
+
 **This repository is the best place to follow the project.** It is updated as the work moves on, with new comparisons, native captures and dated progress notes.
 
 **[Visual evolution](docs/EVOLUTION.md).** Every fixed view of M.I.S.T. through October, from the first complete build to today, at the same framing as the original.
 
 <p align="center"><a href="media/comparisons/mist-armoury-detail-4x3.png"><img src="media/comparisons/mist-armoury-detail-4x3.png" alt="M.I.S.T. armoury — the same fixed view before (left) and after (right) the detail pass" width="100%"></a></p>
 
-<p align="center"><sub>The M.I.S.T. armoury · the same fixed view before (20 October) and after (28 October) the detail pass · board 3840 × 2160 · <a href="media/alpha/mist-armoury-before-4x3.png">before</a> · <a href="media/alpha/mist-armoury-4x3.png">after</a></sub></p>
+<p align="center"><sub>The M.I.S.T. armoury · the same fixed view before (20 October) and after (28 October) the detail pass · board 3840 × 2160 · <a href="media/alpha/mist-armoury-before-4x3.png">before</a> · <a href="media/alpha/mist-armoury-after-4x3.png">after</a></sub></p>
 
 ## What’s new · October 2026
 

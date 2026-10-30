@@ -10,7 +10,7 @@ Chaque plan fixe du M.I.S.T. au fil d’octobre 2026, tel qu’il était à la f
 
 **11 – 20 octobre · plus près de l’original.** Le garage et l’armurerie sont recalés sur les images originales (12 octobre). Chaque plan est ensuite comparé à l’original, plan par plan, dans la version jeu (13 octobre), puis viennent une passe de placement et une passe d’éclairage. La destruction arrive à partir du 15 octobre.
 
-**21 – 31 octobre · matières et détail.** La suite de la destruction (impacts, doublage des murs, armoires à fusils), les matières photographiées dans tout le M.I.S.T. (28 octobre), la passe de détail de l’armurerie (28 octobre) et le présentoir à pistolets de la salle de surveillance, refait d’après l’original et détaillé (30 octobre).
+**21 – 31 octobre · matières et détail.** La suite de la destruction (impacts, doublage des murs, armoires à fusils), les matières photographiées dans tout le M.I.S.T. (28 octobre), la passe de détail de l’armurerie (28 octobre), le présentoir à pistolets de la salle de surveillance, refait d’après l’original et détaillé (30 octobre), et la cage et le comptoir de l’armurerie, recalés sur l’original (30 octobre).
 
 Les images du 14 octobre viennent de la version jeu elle-même ; les autres viennent de l’éditeur. Une capture 16:9 ou 16:10 garde toute la largeur de l’original : dans un cadre 4:3, elle montre des bandes sombres en haut et en bas. Cliquez sur une planche pour l’ouvrir en taille réelle (3200 × 2734).
 
@@ -140,7 +140,7 @@ Les images du 14 octobre viennent de la version jeu elle-même ; les autres vien
 
 [![Armurerie — original et trois captures d’octobre au même cadrage](../media/evolution/mist-evolution-armoury.jpg)](../media/evolution/mist-evolution-armoury.jpg)
 
-10 oct. · première version complète, mannequin provisoire → 20 oct. · après la passe d’éclairage → 28 oct. · passe de détail de l’armurerie
+10 oct. · première version complète, mannequin provisoire → 20 oct. · après la passe d’éclairage → 30 oct. · cage et comptoir recalés sur l’original
 
 
 ## Parking

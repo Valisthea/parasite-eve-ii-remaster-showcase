@@ -25,7 +25,7 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-hall-4
 
 [![Comparaison de la salle de surveillance](../media/comparisons/mist-pierce-4x3.png)](../media/alpha/mist-pierce-4x3.png)
 
-Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-pierce-4x3.png) · personnage provisoire.
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-pierce-4x3.png) · aucun personnage dans le champ.
 
 ### Sas-vestibule
 
@@ -41,9 +41,9 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-armour
 
 ### L’armurerie du M.I.S.T. · avant et après la passe de détail
 
-[![Armurerie du M.I.S.T. avant et après la passe de détail](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+[![Armurerie du M.I.S.T. avant et après la passe de détail](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-after-4x3.png)
 
-Planche 3840 × 2160 · [avant](../media/alpha/mist-armoury-before-4x3.png) · [après](../media/alpha/mist-armoury-4x3.png) · aucun personnage dans le champ.
+Planche 3840 × 2160 · [avant](../media/alpha/mist-armoury-before-4x3.png) · [après](../media/alpha/mist-armoury-after-4x3.png) · aucun personnage dans le champ.
 
 ### Porte de la zone d’accès restreint
 

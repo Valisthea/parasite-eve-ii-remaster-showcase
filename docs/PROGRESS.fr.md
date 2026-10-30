@@ -19,6 +19,18 @@ Le travail avance par passes : construire, comparer, tester, puis corriger. Les 
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
 
+## Salle de surveillance et armurerie du M.I.S.T. — point du 30 octobre 2026
+
+**La salle de surveillance.** Le présentoir à pistolets du fond de la salle est refait d’après l’image originale, mesurée point par point : un meuble bas sur tout le mur du fond, quatre gradins clairs inclinés vers la pièce et cinq casiers. Chaque arme repose sur du feutre, tenue par un câble antivol passé dans son pontet, avec son étiquette imprimée ; un casier est vide, son arme sortie. Une joue sombre devant le bureau, que l’original ne dessine jamais, est devenue le panneau de bout du bureau, et le mur au-dessus du présentoir est plus sombre, comme dans l’original.
+
+**L’armurerie.** La cage suit l’image originale : un seul rail haut sur toute la largeur, deux poteaux clairs et rien entre eux, un portillon sombre avec sa traverse. Le comptoir est fermé par le grillage, avec un unique passe-objets encadré devant l’armurière : les objets passent, pas les personnes. Les papiers, le téléphone, les bannettes et le pistolet démonté sont passés sur le plan de travail de l’armurière, derrière le grillage ; côté clients ne reste que ce que l’original y montre (les classeurs, quelques feuilles, une boîte de cartouches).
+
+**Lumière et ombres.** Une lampe dans la cage projette les losanges du grillage, le rail haut et la traverse du portillon sur le mur nord, là où l’original les montre, et le côté clients est plus éclairé pour le jeu.
+
+**Images mises à jour.** Les comparaisons de la salle de surveillance et de l’armurerie, leurs captures natives et leurs vues 16:9, et les deux planches correspondantes de l’[évolution en images](EVOLUTION.fr.md).
+
+[![L’armurerie — original (gauche) et alpha (droite)](../media/comparisons/mist-armoury-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
 ## Matières du M.I.S.T. et armurerie — point du 28 octobre 2026
 
 **Matières.** Les surfaces du M.I.S.T. passent de textures procédurales à des textures photographiées (scans du domaine public), recolorées sur la palette d’origine pour que les pièces gardent leur allure. Là où une surface porte un dessin unique (panneaux du stand, plaques de sol, usure peinte), ce dessin est conservé et seul le grain photographié s’y ajoute. Les sols carrelés reçoivent leur usure d’une couche photographiée étalée sur toute la pièce : aucune marque ne se répète d’un carreau à l’autre.
@@ -27,7 +39,7 @@ Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’exte
 
 **Images mises à jour.** Les comparaisons du couloir, de la porte de la zone restreinte, de l’armurerie et du hall ont été refaites ; une planche avant/après montre la passe de l’armurerie.
 
-[![L’armurerie avant et après la passe de détail](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+[![L’armurerie avant et après la passe de détail](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-after-4x3.png)
 
 ## M.I.S.T., destruction et Akropolis — point du 20 octobre 2026
 

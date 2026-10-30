@@ -10,7 +10,7 @@ Every fixed view of M.I.S.T. through October 2026, as it looked at the end of ea
 
 **11 – 20 October · closer to the original.** The garage and the armoury were fitted on the original frames (12 October). Every view was then compared shot by shot with the original inside the game build (13 October), followed by a placement pass and a lighting pass. Destruction arrived from 15 October.
 
-**21 – 31 October · materials and detail.** The destruction follow-up (impacts, wall backing, the gun cabinets), photographed materials across the whole of M.I.S.T. (28 October), the armoury detail pass (28 October) and the monitoring room’s gun display, rebuilt from the original and detailed (30 October).
+**21 – 31 October · materials and detail.** The destruction follow-up (impacts, wall backing, the gun cabinets), photographed materials across the whole of M.I.S.T. (28 October), the armoury detail pass (28 October), the monitoring room’s gun display, rebuilt from the original and detailed (30 October), and the armoury’s cage and counter, refitted to the original (30 October).
 
 The 14 October pictures come from the game build itself; the others come from the editor. A 16:9 or 16:10 capture keeps the original’s full width, so it shows dark bands above and below in a 4:3 panel. Click a board to open it at full size (3200 × 2734).
 
@@ -140,7 +140,7 @@ The 14 October pictures come from the game build itself; the others come from th
 
 [![Armoury — original and three October captures at the same framing](../media/evolution/mist-evolution-armoury.jpg)](../media/evolution/mist-evolution-armoury.jpg)
 
-10 Oct · first complete build, temporary mannequin → 20 Oct · after the lighting pass → 28 Oct · armoury detail pass
+10 Oct · first complete build, temporary mannequin → 20 Oct · after the lighting pass → 30 Oct · cage and counter refitted to the original
 
 
 ## Parking

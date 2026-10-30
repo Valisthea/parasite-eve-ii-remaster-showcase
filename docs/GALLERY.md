@@ -25,7 +25,7 @@ Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-hall-4x3
 
 [![Monitoring room comparison](../media/comparisons/mist-pierce-4x3.png)](../media/alpha/mist-pierce-4x3.png)
 
-Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-pierce-4x3.png) · temporary character.
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-pierce-4x3.png) · no character in frame.
 
 ### Airlock vestibule
 
@@ -41,9 +41,9 @@ Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-armoury-
 
 ### M.I.S.T. armoury · before and after the detail pass
 
-[![M.I.S.T. armoury before and after the detail pass](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+[![M.I.S.T. armoury before and after the detail pass](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-after-4x3.png)
 
-Board 3840 × 2160 · [before](../media/alpha/mist-armoury-before-4x3.png) · [after](../media/alpha/mist-armoury-4x3.png) · no character in frame.
+Board 3840 × 2160 · [before](../media/alpha/mist-armoury-before-4x3.png) · [after](../media/alpha/mist-armoury-after-4x3.png) · no character in frame.
 
 ### Restricted area door
 
