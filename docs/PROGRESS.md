@@ -19,6 +19,16 @@ Work progresses in focused passes: build, compare, test, then correct. Screensho
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
 
+## M.I.S.T. materials and the armoury — update of 28 October 2026
+
+**Materials.** The surfaces of M.I.S.T. move from procedural textures to photographed ones (public-domain scans), recoloured to the original palette so the rooms keep their look. Where a surface carries a unique design (the range’s wall panels, the floor plates, painted wear), that design is kept and only the photographed grain is added. Tiled floors get their wear from one photographed layer spread over the whole room, so no mark repeats from tile to tile.
+
+**The armoury.** The cage is now woven galvanised chain-link on posts with base plates, tension bars and bolted straps, hinged gate and brass padlock. The desk gains photographed props (carton, clipboard, pen, pencil, stapler, notes), binders in worn vinyl with their page blocks and divider tabs, and paper that curls and shows its back. Three lamps now cast shadows, and the counter’s front is lit as in the original.
+
+**Updated pictures.** The corridor, restricted door, armoury and hall comparisons were re-rendered; a before/after board shows the armoury pass.
+
+[![The armoury before and after the detail pass](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
 ## M.I.S.T., destruction and Akropolis — update of 20 October 2026
 
 **M.I.S.T.** now reaches past the airlock: the service corridor, the restricted area door and its keypad, the armoury behind its mesh cage, and the underground car park. Each space is matched against the original fixed views, then detailed: shelving built into the walls, papers laid by hand rather than in a grid, signs that can be read.

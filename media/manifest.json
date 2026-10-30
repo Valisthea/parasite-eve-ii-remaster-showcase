@@ -290,6 +290,32 @@
       "sha256": "4ee432612220e8074f86e048a7608ab083e34913d9e333328314e9d3f8ec6afb"
     },
     {
+      "file": "media/comparisons/mist-armoury-detail-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "M.I.S.T. armoury — the same fixed view before (left, 20 October) and after (right, 28 October) the detail pass. No character.",
+      "caption_fr": "Armurerie du M.I.S.T. — le même plan fixe avant (à gauche, 20 octobre) et après (à droite, 28 octobre) la passe de détail. Aucun personnage.",
+      "capture_date": "2026-10-28",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "source_credit": "Unreal Engine captures from the project’s current build (both panels)",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "bd633c3e3a970e51bdbbe9ee3e3fee69817df36e7d2eb7459d9d64d52b43e4b4"
+    },
+    {
+      "file": "media/alpha/mist-armoury-before-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "M.I.S.T. armoury before the detail pass — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Armurerie du M.I.S.T. avant la passe de détail — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "capture_date": "2026-10-20",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "source_credit": "Unreal Engine capture from the project’s current build",
+      "width": 3840,
+      "height": 2880,
+      "sha256": "a59962237d137946753af9fd991ca38dc33544f8f337ba369ae3cb63b188990f"
+    },
+    {
       "file": "media/comparisons/mist-restricted-door-4x3.png",
       "category": "comparison_board",
       "caption_en": "M.I.S.T. restricted area door — original (left) and development alpha (right) at the same reference framing. No character.",

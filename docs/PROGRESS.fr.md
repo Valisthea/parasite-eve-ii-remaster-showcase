@@ -19,6 +19,16 @@ Le travail avance par passes : construire, comparer, tester, puis corriger. Les 
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
 
+## Matières du M.I.S.T. et armurerie — point du 28 octobre 2026
+
+**Matières.** Les surfaces du M.I.S.T. passent de textures procédurales à des textures photographiées (scans du domaine public), recolorées sur la palette d’origine pour que les pièces gardent leur allure. Là où une surface porte un dessin unique (panneaux du stand, plaques de sol, usure peinte), ce dessin est conservé et seul le grain photographié s’y ajoute. Les sols carrelés reçoivent leur usure d’une couche photographiée étalée sur toute la pièce : aucune marque ne se répète d’un carreau à l’autre.
+
+**L’armurerie.** La cage est désormais en grillage galvanisé tissé sur des poteaux à platines, avec barres de tension et colliers boulonnés, portillon sur charnières et cadenas en laiton. Le bureau reçoit des objets photographiés (carton, porte-bloc, stylo, crayon, agrafeuse, notes), des classeurs en vinyle usé avec leurs tranches de pages et leurs onglets, et des feuilles qui gondolent et montrent leur verso. Trois lampes projettent maintenant des ombres, et la façade du comptoir est éclairée comme dans l’original.
+
+**Images mises à jour.** Les comparaisons du couloir, de la porte de la zone restreinte, de l’armurerie et du hall ont été refaites ; une planche avant/après montre la passe de l’armurerie.
+
+[![L’armurerie avant et après la passe de détail](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
 ## M.I.S.T., destruction et Akropolis — point du 20 octobre 2026
 
 Le **M.I.S.T.** va maintenant au-delà du sas : le couloir de service, la porte de la zone d’accès restreint et son digicode, l’armurerie derrière sa cage grillagée, et le parking souterrain. Chaque espace est comparé aux plans fixes d’origine, puis détaillé : rayonnages encastrés dans les murs, papiers posés à la main plutôt qu’en grille, panneaux lisibles.

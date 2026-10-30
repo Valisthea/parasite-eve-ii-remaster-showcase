@@ -37,6 +37,12 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-vestib
 
 Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-armoury-4x3.png) · aucun personnage dans le champ.
 
+### L’armurerie du M.I.S.T. · avant et après la passe de détail
+
+[![Armurerie du M.I.S.T. avant et après la passe de détail](../media/comparisons/mist-armoury-detail-4x3.png)](../media/alpha/mist-armoury-4x3.png)
+
+Planche 3840 × 2160 · [avant](../media/alpha/mist-armoury-before-4x3.png) · [après](../media/alpha/mist-armoury-4x3.png) · aucun personnage dans le champ.
+
 ### Porte de la zone d’accès restreint
 
 [![Comparaison : Porte de la zone d’accès restreint](../media/comparisons/mist-restricted-door-4x3.png)](../media/alpha/mist-restricted-door-4x3.png)

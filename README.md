@@ -22,6 +22,18 @@ This repository is a public progress showcase. The project is an **early develop
 
 <p align="center"><sub>Unreal Engine capture · early alpha · temporary characters · 3840 × 2160</sub></p>
 
+## What’s new · late October 2026
+
+**Photographed materials across M.I.S.T.** Floors, concrete, plaster, painted metal, wood, paper and cardboard now use photographed surfaces, matched to the original colours. Each tiled floor carries its own wear across the whole room instead of the same mark on every tile.
+
+**A detailed armoury.** A woven galvanised cage with its fittings, bolts, hinges and padlock; worn binders, curling paper, a battered carton and the small things of a working desk; real shadows that set every object on its surface.
+
+**This repository is the best place to follow the project.** It is updated as the work moves on, with new comparisons, native captures and dated progress notes.
+
+<p align="center"><a href="media/comparisons/mist-armoury-detail-4x3.png"><img src="media/comparisons/mist-armoury-detail-4x3.png" alt="M.I.S.T. armoury — the same fixed view before (left) and after (right) the detail pass" width="100%"></a></p>
+
+<p align="center"><sub>The M.I.S.T. armoury · the same fixed view before (20 October) and after (28 October) the detail pass · board 3840 × 2160 · <a href="media/alpha/mist-armoury-before-4x3.png">before</a> · <a href="media/alpha/mist-armoury-4x3.png">after</a></sub></p>
+
 ## What’s new · October 2026
 
 **M.I.S.T. keeps growing.** Past the shooting range and the airlock, the alpha now reaches the service corridor, the restricted area and its armoury, and the underground car park, each rebuilt against the original fixed views.
