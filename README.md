@@ -30,6 +30,8 @@ This repository is a public progress showcase. The project is an **early develop
 
 **The monitoring room and the armoury, refitted to the original (30 October).** The monitoring room’s gun display is rebuilt from the original frame: four sloping tiers, the handguns laid flat and cabled. In the armoury, the cage now follows the original: one header rail, a dark gate, and the counter closed by the mesh with a single pass-through. The desk’s paperwork has moved to the armourer’s side, and a lamp inside the cage casts the mesh’s shadow on the wall, as in the original. [Details](docs/PROGRESS.md#mist-monitoring-room-and-armoury--update-of-30-october-2026)
 
+**The restricted area door, detailed with real hardware (1 November).** Every fitting copies a real product: a Von Duprin 99 exit device across the door, an LCN 4041 closer on the frame, a Square D NQ distribution board, a riveted rating plate, an aluminium NO SMOKING sign. The door, the walls and the stickers carry their own wear, placed where people touch, push and kick. [Details](docs/PROGRESS.md#mist-restricted-area-door--update-of-1-november-2026)
+
 **This repository is the best place to follow the project.** It is updated as the work moves on, with new comparisons, native captures and dated progress notes.
 
 **[Visual evolution](docs/EVOLUTION.md).** Every fixed view of M.I.S.T. through October, from the first complete build to today, at the same framing as the original.
@@ -95,7 +97,7 @@ Each board puts the **original** (left) next to the **early alpha** (right) at t
 *The armoury behind its mesh cage · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-armoury-4x3.png)*
 
 [![Restricted area door — original (left) and early alpha (right)](media/comparisons/mist-restricted-door-4x3.png)](media/alpha/mist-restricted-door-4x3.png)
-*The restricted area door and its keypad · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-restricted-door-4x3.png)*
+*The restricted area door and its exit device · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-restricted-door-4x3.png)*
 
 [![Service corridor — original (left) and early alpha (right)](media/comparisons/mist-corridor-4x3.png)](media/alpha/mist-corridor-4x3.png)
 *The service corridor toward the firearms store · board 3840 × 2160 · [native capture 3840 × 2880](media/alpha/mist-corridor-4x3.png)*

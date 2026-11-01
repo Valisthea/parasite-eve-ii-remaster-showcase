@@ -30,6 +30,8 @@ Ce dépôt présente les avancées du projet. Il s’agit d’une **alpha de dé
 
 **La salle de surveillance et l’armurerie, recalées sur l’original (30 octobre).** Le présentoir à pistolets de la salle de surveillance est refait d’après l’image originale : quatre gradins inclinés, les armes posées à plat et câblées. Dans l’armurerie, la cage suit maintenant l’original : un seul rail haut, un portillon sombre, et le comptoir fermé par le grillage avec un unique passe-objets. Les papiers du bureau sont passés du côté de l’armurière, et une lampe dans la cage projette l’ombre du grillage sur le mur, comme dans l’original. [Détails](docs/PROGRESS.fr.md#salle-de-surveillance-et-armurerie-du-mist--point-du-30-octobre-2026)
 
+**La porte de la zone d’accès restreint, détaillée avec du vrai matériel (1er novembre).** Chaque équipement reprend un produit réel : une barre antipanique Von Duprin 99, un ferme-porte LCN 4041 sur le dormant, un tableau électrique Square D NQ, une plaque signalétique rivetée, un panneau NO SMOKING en aluminium. La porte, les murs et les stickers portent leur propre usure, là où l’on touche, pousse et frappe. [Détails](docs/PROGRESS.fr.md#porte-de-la-zone-daccès-restreint-du-mist--point-du-1er-novembre-2026)
+
 **Ce dépôt est le meilleur endroit pour suivre le projet.** Il est mis à jour au fil du travail, avec de nouvelles comparaisons, des captures natives et des notes d’avancement datées.
 
 **[Évolution en images](docs/EVOLUTION.fr.md).** Chaque plan fixe du M.I.S.T. au fil d’octobre, de la première version complète à aujourd’hui, au même cadrage que l’original.
@@ -95,7 +97,7 @@ Chaque planche place l’**original** (à gauche) à côté de l’**alpha** (à
 *L’armurerie derrière sa cage grillagée · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-armoury-4x3.png)*
 
 [![Porte de la zone d’accès restreint — original (gauche) et alpha (droite)](media/comparisons/mist-restricted-door-4x3.png)](media/alpha/mist-restricted-door-4x3.png)
-*La porte de la zone d’accès restreint et son digicode · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-restricted-door-4x3.png)*
+*La porte de la zone d’accès restreint et sa barre antipanique · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-restricted-door-4x3.png)*
 
 [![Couloir de service — original (gauche) et alpha (droite)](media/comparisons/mist-corridor-4x3.png)](media/alpha/mist-corridor-4x3.png)
 *Le couloir de service vers la réserve d’armes · planche 3840 × 2160 · [capture native 3840 × 2880](media/alpha/mist-corridor-4x3.png)*

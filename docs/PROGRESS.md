@@ -19,6 +19,19 @@ Work progresses in focused passes: build, compare, test, then correct. Screensho
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
 
+## M.I.S.T. restricted area door — update of 1 November 2026
+
+**Real hardware, real sizes.** Every fitting around the restricted area door now copies a real product, at its catalogue dimensions:
+- **The exit device** across the door is a Von Duprin 99 in satin chrome: the 57 × 57 mm mechanism rail, its push pad, the end cap and the centre case over the latch, at 101 cm from the floor.
+- **The door closer** is an LCN 4041 mounted on the frame above the door, as it would be fitted: the body on the frame head, the arm reaching into the room, the forearm back to its shoe on the door.
+- **The electrical board** is a surface Square D NQ panelboard: its box, the trim with its four screws, the flush door with its shadow gap and its latch, the DANGER label and a riveted rating plate.
+- **The NO SMOKING sign** is a 20 × 28 cm aluminium plate screwed at its corners. The alarm box shows what the original shows: a grey box with a red lamp, here with its key switch and an engraved plate.
+- **The camera's** wall plate now sits on the wall.
+
+**Wear that tells a story.** The door, its frame and both walls have their own painted surface, made once for each and never repeated. The grime gathers where hands land: round the push bar, on the light switch, on the board's door. Boots leave rubber on the bottom of the door. The paint is chipped along the free edge down to the red primer, the keys have scratched round the cylinder, and a kick left a dent. Settlement cracks run from the corners of the door head. The stickers are faded, their corners lift, and the cleaning cloth has left its marks.
+
+[![The restricted area door — original (left) and alpha (right)](../media/comparisons/mist-restricted-door-4x3.png)](../media/alpha/mist-restricted-door-4x3.png)
+
 ## M.I.S.T. monitoring room and armoury — update of 30 October 2026
 
 **The monitoring room.** The gun display at the back of the room is rebuilt from the original frame, measured on it point by point: a low unit along the back wall with four light tiers sloping toward the room and five bays. Each handgun lies on felt, held by a security cable through its trigger guard, with a printed tag; one bay is empty, its gun signed out. A dark fin in front of the desk, which the original never draws, became the desk’s end panel, and the wall above the display is darker, as in the original.

@@ -19,6 +19,19 @@ Le travail avance par passes : construire, comparer, tester, puis corriger. Les 
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
 
+## Porte de la zone d’accès restreint du M.I.S.T. — point du 1er novembre 2026
+
+**Du vrai matériel, aux vraies dimensions.** Chaque équipement autour de la porte de la zone d’accès restreint reprend un produit réel, aux cotes du catalogue :
+- **La barre antipanique** est une Von Duprin 99 en chrome satiné : le rail du mécanisme de 57 × 57 mm, sa palette de poussée, l’embout et le boîtier central au-dessus du pêne, à 101 cm du sol.
+- **Le ferme-porte** est un LCN 4041 posé sur le dormant au-dessus de la porte, comme il le serait réellement : le corps sur la traverse haute, le bras qui s’avance dans la pièce, l’avant-bras qui revient à son sabot sur la porte.
+- **Le tableau électrique** est un tableau en applique Square D NQ : son caisson, le capot avec ses quatre vis, la porte affleurante avec son jour d’ombre et sa serrure, l’étiquette DANGER et une plaque signalétique rivetée.
+- **Le panneau NO SMOKING** est une plaque d’aluminium de 20 × 28 cm vissée aux quatre coins. Le coffret d’alarme montre ce que l’original montre : un coffret gris avec un voyant rouge, ici avec son contact à clé et une plaque gravée.
+- **La caméra** a maintenant sa platine posée contre le mur.
+
+**Une usure qui raconte quelque chose.** La porte, son cadre et les deux murs ont chacun leur surface peinte, faite une seule fois et jamais répétée. La crasse se concentre là où se posent les mains : autour de la barre, sur l’interrupteur, sur la porte du tableau. Les chaussures laissent du caoutchouc en bas de la porte. La peinture est écaillée le long de la rive jusqu’au primaire rouge, les clés ont rayé autour du cylindre, et un coup de pied a laissé une bosse. Des fissures de tassement partent des angles du linteau. Les stickers sont passés, leurs coins se décollent, et le chiffon a laissé ses traces.
+
+[![La porte de la zone d’accès restreint — original (gauche) et alpha (droite)](../media/comparisons/mist-restricted-door-4x3.png)](../media/alpha/mist-restricted-door-4x3.png)
+
 ## Salle de surveillance et armurerie du M.I.S.T. — point du 30 octobre 2026
 
 **La salle de surveillance.** Le présentoir à pistolets du fond de la salle est refait d’après l’image originale, mesurée point par point : un meuble bas sur tout le mur du fond, quatre gradins clairs inclinés vers la pièce et cinq casiers. Chaque arme repose sur du feutre, tenue par un câble antivol passé dans son pontet, avec son étiquette imprimée ; un casier est vide, son arme sortie. Une joue sombre devant le bureau, que l’original ne dessine jamais, est devenue le panneau de bout du bureau, et le mur au-dessus du présentoir est plus sombre, comme dans l’original.

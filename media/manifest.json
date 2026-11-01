@@ -333,7 +333,7 @@
       "category": "comparison_board",
       "caption_en": "M.I.S.T. restricted area door — original (left) and development alpha (right) at the same reference framing. No character.",
       "caption_fr": "Porte de la zone d’accès restreint du M.I.S.T. — original (à gauche) et alpha de développement (à droite) au même cadrage de référence. Aucun personnage.",
-      "capture_date": "2026-10-28",
+      "capture_date": "2026-11-01",
       "native_render_4k": false,
       "temporary_characters": false,
       "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
@@ -343,20 +343,20 @@
       ],
       "width": 3840,
       "height": 2160,
-      "sha256": "995615a4d928bfef9469aa7deebfd7134557313b22040182610c7831dcebe0e8"
+      "sha256": "f9fb8f105c891aed65310de9d1cc6486c70498eb4b0524b21ce81e3e15919d37"
     },
     {
       "file": "media/alpha/mist-restricted-door-4x3.png",
       "category": "native_alpha_capture",
       "caption_en": "M.I.S.T. restricted area door — development alpha, native 4:3 render. No character.",
       "caption_fr": "Porte de la zone d’accès restreint du M.I.S.T. — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "capture_date": "2026-10-28",
+      "capture_date": "2026-11-01",
       "native_render_4k": true,
       "temporary_characters": false,
       "source_credit": "Unreal Engine capture from the project’s current build",
       "width": 3840,
       "height": 2880,
-      "sha256": "db50bfd757c73123bb49f73f734dbcea317c1221a7fe5b00932d2050a38c3778"
+      "sha256": "029c4042cd9b07029cdad78703cde197730310b8cb1218b3570f2f3159f2cc4e"
     },
     {
       "file": "media/comparisons/mist-corridor-4x3.png",
