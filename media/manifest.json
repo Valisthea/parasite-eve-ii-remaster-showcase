@@ -303,6 +303,45 @@
       "sha256": "4ee432612220e8074f86e048a7608ab083e34913d9e333328314e9d3f8ec6afb"
     },
     {
+      "file": "media/alpha/mist-armoury-modes-fixed-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "M.I.S.T. armoury — the original fixed camera, 4:3, native render. Temporary Unreal mannequins stand in for Aya and Jodie.",
+      "caption_fr": "Armurerie du M.I.S.T. — caméra fixe d’origine, 4:3, rendu natif. Des mannequins Unreal provisoires remplacent Aya et Jodie.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-02",
+      "native_render_4k": true,
+      "temporary_characters": true,
+      "source_credit": "Unreal Engine capture from the project’s current build",
+      "sha256": "9fd61058cd948fd8a126dfb641c1790ba2d7ada9de06d5a78592af30f0decf7e"
+    },
+    {
+      "file": "media/wide/mist-armoury-modes-fixed-16x9.png",
+      "category": "native_alpha_capture",
+      "caption_en": "M.I.S.T. armoury — the original fixed camera, 16:9, native render with the vertical field of view of the 4:3 framing. Temporary Unreal mannequins.",
+      "caption_fr": "Armurerie du M.I.S.T. — caméra fixe d’origine, 16:9, rendu natif au champ de vision vertical du cadrage 4:3. Mannequins Unreal provisoires.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-02",
+      "native_render_4k": true,
+      "temporary_characters": true,
+      "source_credit": "Unreal Engine capture from the project’s current build",
+      "sha256": "e7368d89c4378748c313e9421db368a44530d585523b371a2cc71dd14f5e0e4c"
+    },
+    {
+      "file": "media/wide/mist-armoury-modes-new-camera-16x9.png",
+      "category": "native_alpha_capture",
+      "caption_en": "M.I.S.T. armoury — the remaster mode’s new, modern camera, 16:9, native render: Aya facing Jodie at the counter. Temporary Unreal mannequins.",
+      "caption_fr": "Armurerie du M.I.S.T. — la nouvelle caméra moderne du mode remaster, 16:9, rendu natif : Aya face à Jodie au comptoir. Mannequins Unreal provisoires.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-02",
+      "native_render_4k": true,
+      "temporary_characters": true,
+      "source_credit": "Unreal Engine capture from the project’s current build",
+      "sha256": "eef1e3ecd0dabacb3d44a9ad46cb5ae68cf45d2cf71d7b4b60edee4ef7f91892"
+    },
+    {
       "file": "media/comparisons/mist-armoury-detail-4x3.png",
       "category": "comparison_board",
       "caption_en": "M.I.S.T. armoury — the same fixed view before (left, 20 October) and after (right, 28 October) the detail pass. No character.",

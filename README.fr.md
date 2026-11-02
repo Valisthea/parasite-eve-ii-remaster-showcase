@@ -22,6 +22,22 @@ Ce dépôt présente les avancées du projet. Il s’agit d’une **alpha de dé
 
 <p align="center"><sub>Capture Unreal Engine · alpha précoce · personnages provisoires · 3840 × 2160</sub></p>
 
+## Trois façons de jouer · novembre 2026
+
+Trois façons de jouer sont prévues : les caméras fixes d’origine en 4:3, les mêmes caméras fixes en 16:9, et un mode remaster avec une nouvelle caméra moderne. Voici le même moment dans l’armurerie dans les trois cas : Aya au comptoir, face à Jodie derrière le grillage. Les personnages sont des mannequins Unreal Engine provisoires.
+
+<p align="center"><a href="media/alpha/mist-armoury-modes-fixed-4x3.png"><img src="media/alpha/mist-armoury-modes-fixed-4x3.png" alt="L’armurerie du M.I.S.T. vue par la caméra fixe d’origine, 4:3" width="100%"></a></p>
+
+<p align="center"><sub>1 · Caméra fixe d’origine, 4:3 · capture native 3840 × 2880 · mannequins provisoires</sub></p>
+
+<p align="center"><a href="media/wide/mist-armoury-modes-fixed-16x9.png"><img src="media/wide/mist-armoury-modes-fixed-16x9.png" alt="La même caméra fixe en 16:9" width="100%"></a></p>
+
+<p align="center"><sub>2 · Caméra fixe d’origine, 16:9 · le même cadrage, élargi sur les côtés · capture native 3840 × 2160</sub></p>
+
+<p align="center"><a href="media/wide/mist-armoury-modes-new-camera-16x9.png"><img src="media/wide/mist-armoury-modes-new-camera-16x9.png" alt="La nouvelle caméra du mode remaster en 16:9 : Aya face à Jodie au comptoir de l’armurerie" width="100%"></a></p>
+
+<p align="center"><sub>3 · Mode remaster, nouvelle caméra, 16:9 · Aya face à Jodie au comptoir · capture native 3840 × 2160</sub></p>
+
 ## Nouveautés · fin octobre 2026
 
 **Des matières photographiées dans tout le M.I.S.T.** Sols, béton, plâtre, métal peint, bois, papier et carton utilisent désormais des surfaces photographiées, accordées aux couleurs d’origine. Chaque sol carrelé porte sa propre usure sur toute la pièce, au lieu de la même marque répétée sur chaque carreau.

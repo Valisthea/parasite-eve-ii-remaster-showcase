@@ -22,6 +22,22 @@ This repository is a public progress showcase. The project is an **early develop
 
 <p align="center"><sub>Unreal Engine capture · early alpha · temporary characters · 3840 × 2160</sub></p>
 
+## Three ways to play · November 2026
+
+Three ways to play are planned: the original fixed cameras in 4:3, the same fixed cameras in 16:9, and a remaster mode with a new, modern camera. Here is the same moment in the armoury in all three: Aya at the counter, facing Jodie behind the mesh. The characters are temporary Unreal Engine mannequins.
+
+<p align="center"><a href="media/alpha/mist-armoury-modes-fixed-4x3.png"><img src="media/alpha/mist-armoury-modes-fixed-4x3.png" alt="The M.I.S.T. armoury seen by the original fixed camera, 4:3" width="100%"></a></p>
+
+<p align="center"><sub>1 · Original fixed camera, 4:3 · native capture 3840 × 2880 · temporary mannequins</sub></p>
+
+<p align="center"><a href="media/wide/mist-armoury-modes-fixed-16x9.png"><img src="media/wide/mist-armoury-modes-fixed-16x9.png" alt="The same fixed camera in 16:9" width="100%"></a></p>
+
+<p align="center"><sub>2 · Original fixed camera, 16:9 · the same framing, widened on both sides · native capture 3840 × 2160</sub></p>
+
+<p align="center"><a href="media/wide/mist-armoury-modes-new-camera-16x9.png"><img src="media/wide/mist-armoury-modes-new-camera-16x9.png" alt="The remaster mode’s new camera in 16:9: Aya facing Jodie at the armoury counter" width="100%"></a></p>
+
+<p align="center"><sub>3 · Remaster mode, new camera, 16:9 · Aya facing Jodie at the counter · native capture 3840 × 2160</sub></p>
+
 ## What’s new · late October 2026
 
 **Photographed materials across M.I.S.T.** Floors, concrete, plaster, painted metal, wood, paper and cardboard now use photographed surfaces, matched to the original colours. Each tiled floor carries its own wear across the whole room instead of the same mark on every tile.
