@@ -19,6 +19,14 @@ Work progresses in focused passes: build, compare, test, then correct. Screensho
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
 
+## M.I.S.T. monitoring room and hall — update of early November 2026
+
+**Lights first.** The light fittings of the monitoring room and of the hall toward Pierce's office were placed again, from the original: each fitting visible in the original's fixed views was projected onto the ceiling through the original framing. The hall's round fitting turned out to be a vent (it now gives no light); the tube fittings moved to where the original has them, one of them across the hall in front of the certificate; a black spot rail runs along the paintings with one head per column of frames; a light sits under the desk's hood, lighting the desk. Every light comes out of its fitting.
+
+**A finishing pass, judged in the game.** Pierce's station and its part of the hall were finished and judged with the game's own settings, not the editor's review settings.
+
+**Floors.** Following the feedback on the armoury pictures, the photographed detail of the floors is toned down: the floor no longer looks more realistic than the walls around it.
+
 ## Akropolis tower plaza — update of 9 November 2026
 
 The plaza at the foot of the Akropolis tower is the first place of Akropolis you can walk through from start to finish: from Aya's car to the tower doors, at the original's framings.

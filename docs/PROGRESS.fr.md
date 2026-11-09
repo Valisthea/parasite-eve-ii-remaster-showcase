@@ -19,6 +19,14 @@ Le travail avance par passes : construire, comparer, tester, puis corriger. Les 
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
 
+## Salle de surveillance et hall du M.I.S.T. — point de début novembre 2026
+
+**Les lumières d’abord.** Les luminaires de la salle de surveillance et du hall qui mène au bureau de Pierce ont été replacés d’après l’original : chaque luminaire visible dans ses vues fixes a été projeté sur le plafond à travers le cadrage d’origine. Le luminaire rond du hall s’est révélé être une bouche d’aération (il n’éclaire plus) ; les réglettes sont venues là où l’original les montre, l’une en travers du hall devant le certificat ; un rail de spots noir longe les tableaux, avec une tête par colonne de cadres ; une lumière sous la hotte du bureau éclaire le plan de travail. Chaque lumière sort de son luminaire.
+
+**Une passe de finition, jugée dans le jeu.** Le poste de Pierce et sa portion de hall ont été finis et jugés avec les réglages du jeu lui-même, pas ceux de l’éditeur.
+
+**Les sols.** Suite aux retours sur les images de l’armurerie, le détail photographié des sols est atténué : le sol ne paraît plus plus réaliste que les murs qui l’entourent.
+
 ## Akropolis, parvis de la tour — point du 9 novembre 2026
 
 Le parvis au pied de la tour d’Akropolis est le premier lieu d’Akropolis que l’on traverse d’un bout à l’autre : de la voiture d’Aya jusqu’aux portes de la tour, aux cadrages de l’original.

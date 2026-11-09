@@ -57,6 +57,18 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-restri
 
 Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · aucun personnage dans le champ.
 
+### M.I.S.T. · la salle de surveillance, début novembre
+
+[![Comparaison : M.I.S.T. · la salle de surveillance, début novembre](../media/comparisons/mist-monitoring-room-nov-4x3.png)](../media/alpha/mist-monitoring-room-nov-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-monitoring-room-nov-4x3.png) · luminaires recalés sur l’original, aucun personnage.
+
+### M.I.S.T. · le hall vers le bureau de Pierce, début novembre
+
+[![Comparaison : M.I.S.T. · le hall vers le bureau de Pierce, début novembre](../media/comparisons/mist-hall-nov-4x3.png)](../media/alpha/mist-hall-nov-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-hall-nov-4x3.png) · luminaires recalés sur l’original, aucun personnage.
+
 ### Akropolis · l’allée du parvis et le massif rond
 
 [![Comparaison : Akropolis · l’allée du parvis et le massif rond](../media/comparisons/akropolis-plaza-drive-4x3.png)](../media/alpha/akropolis-plaza-drive-4x3.png)

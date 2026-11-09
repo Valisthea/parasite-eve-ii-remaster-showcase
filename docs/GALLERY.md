@@ -57,6 +57,18 @@ Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-restrict
 
 Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · no character in frame.
 
+### M.I.S.T. · the monitoring room, early November
+
+[![M.I.S.T. · the monitoring room, early November comparison](../media/comparisons/mist-monitoring-room-nov-4x3.png)](../media/alpha/mist-monitoring-room-nov-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-monitoring-room-nov-4x3.png) · light fittings refitted to the original, no character in frame.
+
+### M.I.S.T. · the hall toward Pierce's office, early November
+
+[![M.I.S.T. · the hall toward Pierce's office, early November comparison](../media/comparisons/mist-hall-nov-4x3.png)](../media/alpha/mist-hall-nov-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-hall-nov-4x3.png) · light fittings refitted to the original, no character in frame.
+
 ### Akropolis · the plaza drive and the round planter
 
 [![Akropolis · the plaza drive and the round planter comparison](../media/comparisons/akropolis-plaza-drive-4x3.png)](../media/alpha/akropolis-plaza-drive-4x3.png)

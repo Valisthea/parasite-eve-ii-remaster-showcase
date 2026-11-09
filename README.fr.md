@@ -38,6 +38,20 @@ Trois façons de jouer sont prévues : les caméras fixes d’origine en 4:3, le
 
 <p align="center"><sub>3 · Mode remaster, nouvelle caméra, 16:9 · Aya face à Jodie au comptoir · capture native 3840 × 2160</sub></p>
 
+## M.I.S.T. · début novembre 2026
+
+**Des lumières placées là où l’original les montre.** Dans la salle de surveillance et le hall qui mène au bureau de Pierce, chaque luminaire se trouve désormais là où les vues fixes de l’original en montrent un : une bouche d’aération ronde au plafond du hall, les réglettes, un rail de spots le long des tableaux et une lumière sous la hotte du bureau. Chaque lumière sort de son luminaire.
+
+**Le poste de Pierce fini.** Le bureau, le hall et leurs petits détails ont reçu une passe de finition, jugée avec les réglages du jeu lui-même plutôt que dans l’éditeur.
+
+**Plus de retenue sur les sols.** Après vos retours sur l’armurerie, le détail photographié des sols a été atténué, pour qu’aucune surface ne paraisse plus réaliste que le reste de la pièce.
+
+[![Salle de surveillance du M.I.S.T. — original (gauche) et début novembre (droite)](media/comparisons/mist-monitoring-room-nov-4x3.png)](media/alpha/mist-monitoring-room-nov-4x3.png)
+*La salle de surveillance · début novembre · [capture native 3840 × 2880](media/alpha/mist-monitoring-room-nov-4x3.png)*
+
+[![Hall du M.I.S.T. vers le bureau de Pierce — original (gauche) et début novembre (droite)](media/comparisons/mist-hall-nov-4x3.png)](media/alpha/mist-hall-nov-4x3.png)
+*Le hall vers le bureau de Pierce · début novembre · [capture native 3840 × 2880](media/alpha/mist-hall-nov-4x3.png)*
+
 ## Akropolis · le parvis de la tour en décor réel · novembre 2026
 
 Le premier lieu jouable d’Akropolis est le parvis au pied de la tour : la nuit de l’attaque, des voitures de police, un camion de pompiers et une ambulance devant les portes. Dans l’original, c’est un décor pré-calculé ; ici, c’est un vrai lieu que l’on traverse, reconstruit et vérifié image par image face à l’original, au même cadrage.

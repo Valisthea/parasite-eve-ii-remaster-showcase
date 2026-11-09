@@ -38,6 +38,20 @@ Three ways to play are planned: the original fixed cameras in 4:3, the same fixe
 
 <p align="center"><sub>3 · Remaster mode, new camera, 16:9 · Aya facing Jodie at the counter · native capture 3840 × 2160</sub></p>
 
+## M.I.S.T. · early November 2026
+
+**Lights placed where the original shows them.** In the monitoring room and the hall toward Pierce's office, every light fitting now stands where the original's fixed views show one: a round vent in the hall ceiling, the tube fittings, a spot rail along the paintings and a light under the desk's hood. Each light comes out of its fitting.
+
+**Pierce's station finished.** The desk, the hall and their small details have had a finishing pass, judged in the game's own settings rather than in the editor.
+
+**More restraint on the floors.** After your feedback on the armoury, the floors' photographed detail has been toned down so that no single surface looks more realistic than the rest of the room.
+
+[![M.I.S.T. monitoring room — original (left) and early November (right)](media/comparisons/mist-monitoring-room-nov-4x3.png)](media/alpha/mist-monitoring-room-nov-4x3.png)
+*The monitoring room · early November · [native capture 3840 × 2880](media/alpha/mist-monitoring-room-nov-4x3.png)*
+
+[![M.I.S.T. hall toward Pierce's office — original (left) and early November (right)](media/comparisons/mist-hall-nov-4x3.png)](media/alpha/mist-hall-nov-4x3.png)
+*The hall toward Pierce's office · early November · [native capture 3840 × 2880](media/alpha/mist-hall-nov-4x3.png)*
+
 ## Akropolis · the tower plaza in real decor · November 2026
 
 The first playable place of Akropolis is the plaza at the foot of the tower: the night of the attack, police cars, a fire engine and an ambulance in front of the doors. In the original it is a pre-rendered background; here it is a real space you walk through, rebuilt and checked frame by frame against the original at the same framing.

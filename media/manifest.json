@@ -1071,6 +1071,66 @@
       "temporary_characters": false,
       "sha256": "0d21e2b4aded54e74e323c467ac249320eb4e55a1a759f703641c5a2974bc622",
       "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/mist-monitoring-room-nov-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The monitoring room: ceiling fittings and the desk light placed where the original shows them — original (left) and early alpha (right) at the same reference framing. No character.",
+      "caption_fr": "La salle de surveillance : luminaires du plafond et éclairage du bureau placés là où l’original les montre — original (à gauche) et alpha (à droite) au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "25f48fe00f14cfd8577e17a054513a59e1ad2749660a11e27f518a3149475ed2",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/mist-monitoring-room-nov-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The monitoring room: ceiling fittings and the desk light placed where the original shows them — development alpha, native 4:3 render. No character.",
+      "caption_fr": "La salle de surveillance : luminaires du plafond et éclairage du bureau placés là où l’original les montre — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "9246861e61db210bf446c34889eb194797e314e0d9e95238360f8baf5f15f701",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/mist-hall-nov-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The hall: the round vent, the tube fittings and the spot rail along the paintings, as in the original — original (left) and early alpha (right) at the same reference framing. No character.",
+      "caption_fr": "Le hall : la bouche d’aération ronde, les réglettes et le rail de spots le long des tableaux, comme dans l’original — original (à gauche) et alpha (à droite) au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "6780b675ccba0df9c48f5deb1ac739816bb8e98d862af62c878e2e024192d071",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/mist-hall-nov-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The hall: the round vent, the tube fittings and the spot rail along the paintings, as in the original — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Le hall : la bouche d’aération ronde, les réglettes et le rail de spots le long des tableaux, comme dans l’original — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "ddd85be7c32b1113180e39ae7d2727568b8b2261bbbd3bdfdd7cc073d41faf78",
+      "source_credit": "Unreal Engine capture from the project’s current build"
     }
   ]
 }
