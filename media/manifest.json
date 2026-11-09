@@ -953,126 +953,6 @@
       "sha256": "03f39a0e9c40d3b87f351d0ca7aad81350c948b211de18d5b494efde9b0d7985"
     },
     {
-      "file": "media/comparisons/akropolis-plaza-drive-4x3.png",
-      "category": "comparison_board",
-      "caption_en": "The plaza drive and the round planter — original (left) and early alpha, first real decor (right), at the same reference framing. No character in frame.",
-      "caption_fr": "L’allée du parvis et le massif rond — original (à gauche) et alpha, premier décor réel (à droite), au même cadrage de référence. Aucun personnage.",
-      "width": 3840,
-      "height": 2160,
-      "capture_date": "2026-11-09",
-      "native_render_4k": false,
-      "temporary_characters": false,
-      "sha256": "84bf523c8b02817fadcf96836153be8c26152641ba98afb987acf15fbaeb9239",
-      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
-      "original_reference_resolution": [
-        320,
-        240
-      ]
-    },
-    {
-      "file": "media/alpha/akropolis-plaza-drive-4x3.png",
-      "category": "native_alpha_capture",
-      "caption_en": "The drive and its painted markings, the round planter on its brick island, a POLICE LINE barricade — development alpha, native 4:3 render. No character.",
-      "caption_fr": "L’allée et ses marquages, le massif rond sur son îlot de briques, une barrière POLICE LINE — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "width": 3840,
-      "height": 2880,
-      "capture_date": "2026-11-09",
-      "native_render_4k": true,
-      "temporary_characters": false,
-      "sha256": "66e0f892d9f1b47df7dba02f1a887ade95368da9bfedd28d9182d7e95832ce46",
-      "source_credit": "Unreal Engine capture from the project’s current build"
-    },
-    {
-      "file": "media/comparisons/akropolis-plaza-fire-engine-4x3.png",
-      "category": "comparison_board",
-      "caption_en": "The fire engine at the tower — original (left) and early alpha, first real decor (right), at the same reference framing. No character in frame.",
-      "caption_fr": "Le camion de pompiers devant la tour — original (à gauche) et alpha, premier décor réel (à droite), au même cadrage de référence. Aucun personnage.",
-      "width": 3840,
-      "height": 2160,
-      "capture_date": "2026-11-09",
-      "native_render_4k": false,
-      "temporary_characters": false,
-      "sha256": "62c57d885fbb3c093a28fa85713f5b9172c0991dccd7fbdd35333ba83cb0d406",
-      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
-      "original_reference_resolution": [
-        320,
-        240
-      ]
-    },
-    {
-      "file": "media/alpha/akropolis-plaza-fire-engine-4x3.png",
-      "category": "native_alpha_capture",
-      "caption_en": "The fire engine, its outrigger and cones, the barricades in front of the tower — development alpha, native 4:3 render. No character.",
-      "caption_fr": "Le camion de pompiers, son vérin de calage et ses cônes, les barrières devant la tour — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "width": 3840,
-      "height": 2880,
-      "capture_date": "2026-11-09",
-      "native_render_4k": true,
-      "temporary_characters": false,
-      "sha256": "5181de4d87a717911b24692935c7f244be576121219a9c8ded3f43ad2d685b63",
-      "source_credit": "Unreal Engine capture from the project’s current build"
-    },
-    {
-      "file": "media/comparisons/akropolis-plaza-forecourt-4x3.png",
-      "category": "comparison_board",
-      "caption_en": "The forecourt and the red carpet — original (left) and early alpha, first real decor (right), at the same reference framing. No character in frame.",
-      "caption_fr": "Le parvis et le tapis rouge — original (à gauche) et alpha, premier décor réel (à droite), au même cadrage de référence. Aucun personnage.",
-      "width": 3840,
-      "height": 2160,
-      "capture_date": "2026-11-09",
-      "native_render_4k": false,
-      "temporary_characters": false,
-      "sha256": "62a2868efbf642d67ac051259267a45481efc654f93e9da91a9c313c8427b9a4",
-      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
-      "original_reference_resolution": [
-        320,
-        240
-      ]
-    },
-    {
-      "file": "media/alpha/akropolis-plaza-forecourt-4x3.png",
-      "category": "native_alpha_capture",
-      "caption_en": "The marble forecourt, the red carpet and its lettering, the row of barricades starting at the fire engine — development alpha, native 4:3 render. No character.",
-      "caption_fr": "Le parvis en marbre, le tapis rouge et son lettrage, la rangée de barrières qui part du camion — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "width": 3840,
-      "height": 2880,
-      "capture_date": "2026-11-09",
-      "native_render_4k": true,
-      "temporary_characters": false,
-      "sha256": "065dbad7020a3265b2a75de85333206777b3ec1c2278ec6ceb66442459f9a3bb",
-      "source_credit": "Unreal Engine capture from the project’s current build"
-    },
-    {
-      "file": "media/comparisons/akropolis-plaza-doors-4x3.png",
-      "category": "comparison_board",
-      "caption_en": "The tower doors — original (left) and early alpha, first real decor (right), at the same reference framing. No character in frame.",
-      "caption_fr": "Les portes de la tour — original (à gauche) et alpha, premier décor réel (à droite), au même cadrage de référence. Aucun personnage.",
-      "width": 3840,
-      "height": 2160,
-      "capture_date": "2026-11-09",
-      "native_render_4k": false,
-      "temporary_characters": false,
-      "sha256": "40526fcc35bf07e7e1ae3567ad05aea4e0ea2c7298e6e20664bc28a653e07a09",
-      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
-      "original_reference_resolution": [
-        320,
-        240
-      ]
-    },
-    {
-      "file": "media/alpha/akropolis-plaza-doors-4x3.png",
-      "category": "native_alpha_capture",
-      "caption_en": "The red granite pier and its sconce, the glass doors under the roller grille, the gold column — development alpha, native 4:3 render. No character.",
-      "caption_fr": "Le pilier en granit rouge et son applique, les portes vitrées sous la grille roulante, la colonne dorée — alpha de développement, rendu natif 4:3. Aucun personnage.",
-      "width": 3840,
-      "height": 2880,
-      "capture_date": "2026-11-09",
-      "native_render_4k": true,
-      "temporary_characters": false,
-      "sha256": "0d21e2b4aded54e74e323c467ac249320eb4e55a1a759f703641c5a2974bc622",
-      "source_credit": "Unreal Engine capture from the project’s current build"
-    },
-    {
       "file": "media/comparisons/mist-monitoring-room-nov-4x3.png",
       "category": "comparison_board",
       "caption_en": "The monitoring room: ceiling fittings and the desk light placed where the original shows them — original (left) and early alpha (right) at the same reference framing. No character.",
@@ -1130,6 +1010,156 @@
       "native_render_4k": true,
       "temporary_characters": false,
       "sha256": "ddd85be7c32b1113180e39ae7d2727568b8b2261bbbd3bdfdd7cc073d41faf78",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/akropolis-plaza-drive-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The plaza drive and the round planter — original (left) and early alpha, real decor with the ground pass (right), at the same reference framing. No character in frame.",
+      "caption_fr": "L’allée du parvis et le massif rond — original (à gauche) et alpha, décor réel avec la passe du sol (à droite), au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "cd00034ed3102d8985424f0e0a1263e385be253c5ca2092e94130e17af2dfcce",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/akropolis-plaza-drive-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The drive and its painted markings, the round planter on its brick island, a POLICE LINE barricade — development alpha, native 4:3 render. No character.",
+      "caption_fr": "L’allée et ses marquages, le massif rond sur son îlot de briques, une barrière POLICE LINE — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "0a80262ee4c0386c2b6804fc394338f2c541b3ee0d73de2481b1196dbd3de583",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/akropolis-plaza-markings-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The drive’s markings and the barricades — original (left) and early alpha, real decor with the ground pass (right), at the same reference framing. No character in frame.",
+      "caption_fr": "Les marquages de l’allée et les barrières — original (à gauche) et alpha, décor réel avec la passe du sol (à droite), au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "930c9e4996f69fc39e9edfac78723a35a5dfd6196a8f6d86009ecbfe1cdf6c0a",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/akropolis-plaza-markings-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "Photographed asphalt with tar-sealed cracks, worn paint on the hatched bays, the hoses and a POLICE LINE barricade — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Bitume photographié aux fissures colmatées au goudron, peinture usée des places hachurées, les tuyaux et une barrière POLICE LINE — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "96c7d8c6b2a0a27ee84dd2abea7e5b26c9d1fa7de44d1161985786e7f815ed89",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/akropolis-plaza-fire-engine-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The fire engine at the tower — original (left) and early alpha, real decor with the ground pass (right), at the same reference framing. No character in frame.",
+      "caption_fr": "Le camion de pompiers devant la tour — original (à gauche) et alpha, décor réel avec la passe du sol (à droite), au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "81309da188c5dc953681a6a339cbf26e1f768dd35be39346cbb35d5e045a3bd2",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/akropolis-plaza-fire-engine-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The fire engine, its outrigger and cones, the hoses on the soaked ground, the barricades in front of the tower — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Le camion de pompiers, son vérin de calage et ses cônes, les tuyaux sur le sol trempé, les barrières devant la tour — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "9cd0e2843113b7132c1df035268003bd4a1ce6af099feeb5fa58dcff9f4ebc18",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/akropolis-plaza-forecourt-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The forecourt and the red carpet — original (left) and early alpha, real decor with the ground pass (right), at the same reference framing. No character in frame.",
+      "caption_fr": "Le parvis et le tapis rouge — original (à gauche) et alpha, décor réel avec la passe du sol (à droite), au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "4e9e5374475f3e1f5e7a5f600eee5380e6888dd8c2bea523b7bf7b1549b39bfc",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/akropolis-plaza-forecourt-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The marble forecourt, the red carpet and its lettering, the row of barricades starting at the fire engine — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Le parvis en marbre, le tapis rouge et son lettrage, la rangée de barrières qui part du camion — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "19c47d57f07b36a54bab1f5fdb7e9e1d430d6e78f1ad034ebc2c21c262295885",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/akropolis-plaza-doors-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The tower doors — original (left) and early alpha, real decor with the ground pass (right), at the same reference framing. No character in frame.",
+      "caption_fr": "Les portes de la tour — original (à gauche) et alpha, décor réel avec la passe du sol (à droite), au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-09",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "849e7817beb7e1c0acae83011d7bce4b031f78c28e9125b250b71b72235be367",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/akropolis-plaza-doors-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The red granite pier and its sconce, the glass doors under the roller grille, the gold column — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Le pilier en granit rouge et son applique, les portes vitrées sous la grille roulante, la colonne dorée — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-09",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "bdcee660f3d45bba026a6c99c0b9814442177fd0d71e69df540658d0a956ebf9",
       "source_credit": "Unreal Engine capture from the project’s current build"
     }
   ]

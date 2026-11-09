@@ -37,7 +37,9 @@ The plaza at the foot of the Akropolis tower is the first place of Akropolis you
 
 **Light.** In the original, the lights of this place only light the characters over a pre-rendered picture. Here the scene is lit by the fixtures the original shows: the two street lamps, the fire engine's beacons and work lights, the ambulance, the canopy's downlights and the planter's lights. Each zone of the ground is compared with the original at the same framing: the overall level now matches it, and every zone is within a factor of two, with the same warm colour.
 
-**Still to come.** The characters, the hoses on the ground, flashing beacons, and a closer fit of the fire engine.
+**The ground (evening of 9 November).** The ground was the least convincing part of the scene, so it got a pass of its own. The asphalt is now three photographed road surfaces blended over the whole drive, so no two spots look alike, at the same overall brightness as before (it was already matched to the original). It carries the wear of a city drive: cracks sealed with poured tar, worn thin where the wheels pass, fatigue cracking in the wheel paths, square saw-cut repairs round the manholes, two trenches across the drive, cold-mix patches, oil drips down the lanes, grit along the kerbs, paint chipped along the cracks. The fire engine's hoses now run across the drive, and the ground round them is soaked, as in the original: water stands in the real dips of the ground, and the firefighters' wet boot prints lead to the doors and to the ambulance, fading as they dry. The red carpet is rumpled and trodden. Its colour and the marble's are measured against the original at the same framing: the carpet is a deeper red, the marble a cooler green-grey.
+
+**Still to come.** The characters, flashing beacons, and a closer fit of the fire engine.
 
 ## M.I.S.T. restricted area door — update of 1 November 2026
 

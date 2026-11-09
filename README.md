@@ -60,19 +60,24 @@ The first playable place of Akropolis is the plaza at the foot of the tower: the
 - **Modelled for the project.** The fire engine, the ambulance with its open rear doors, the POLICE LINE barricades, the gurney, the cones and the road flares. Surfaces and plants come from photographed materials.
 - **Lit like the original.** Every light sits in a fixture the original shows: the street lamps, the fire engine's beacons, the ambulance, the canopy lights, the planter's lights. The light level and colour are measured against the original, zone by zone, rather than set by eye.
 
-Early alpha: the characters, the hoses on the ground and the flashing beacons are still to come.
+- **The ground, up close.** The asphalt is now photographed road surface, worn and never the same from one spot to the next. It carries what a city drive really has: cracks sealed with tar, saw-cut repairs round the manholes, worn paint, oil drips down the lanes. Round the fire engine's hoses the ground is soaked, with water standing in its real dips and the firefighters' wet boot prints leading to the doors. The red carpet is rumpled, and its colour and the marble's are now measured against the original.
 
-[![Akropolis plaza drive — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-drive-4x3.png)](media/alpha/akropolis-plaza-drive-4x3.png)
-*The drive and the round planter · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-drive-4x3.png)*
+Early alpha: the characters and the flashing beacons are still to come.
 
-[![Akropolis fire engine — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-fire-engine-4x3.png)](media/alpha/akropolis-plaza-fire-engine-4x3.png)
-*The fire engine at the tower · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-fire-engine-4x3.png)*
+[![Akropolis plaza drive — original (left) and real decor (right)](media/comparisons/akropolis-plaza-drive-4x3.png)](media/alpha/akropolis-plaza-drive-4x3.png)
+*The drive and the round planter · real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-drive-4x3.png)*
 
-[![Akropolis forecourt — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-forecourt-4x3.png)](media/alpha/akropolis-plaza-forecourt-4x3.png)
-*The forecourt and the red carpet · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-forecourt-4x3.png)*
+[![Akropolis drive markings — original (left) and real decor with the ground pass (right)](media/comparisons/akropolis-plaza-markings-4x3.png)](media/alpha/akropolis-plaza-markings-4x3.png)
+*The drive's markings and the barricades · the ground pass · [native capture 3840 × 2880](media/alpha/akropolis-plaza-markings-4x3.png)*
 
-[![Akropolis tower doors — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-doors-4x3.png)](media/alpha/akropolis-plaza-doors-4x3.png)
-*The tower doors · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-doors-4x3.png)*
+[![Akropolis fire engine — original (left) and real decor (right)](media/comparisons/akropolis-plaza-fire-engine-4x3.png)](media/alpha/akropolis-plaza-fire-engine-4x3.png)
+*The fire engine at the tower, the soaked ground round its hoses · real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-fire-engine-4x3.png)*
+
+[![Akropolis forecourt — original (left) and real decor (right)](media/comparisons/akropolis-plaza-forecourt-4x3.png)](media/alpha/akropolis-plaza-forecourt-4x3.png)
+*The forecourt and the red carpet · real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-forecourt-4x3.png)*
+
+[![Akropolis tower doors — original (left) and real decor (right)](media/comparisons/akropolis-plaza-doors-4x3.png)](media/alpha/akropolis-plaza-doors-4x3.png)
+*The tower doors · real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-doors-4x3.png)*
 
 [Details](docs/PROGRESS.md#akropolis-tower-plaza--update-of-9-november-2026)
 

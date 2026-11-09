@@ -60,19 +60,24 @@ Le premier lieu jouable d’Akropolis est le parvis au pied de la tour : la nuit
 - **Modélisé pour le projet.** Le camion de pompiers, l’ambulance aux portes arrière ouvertes, les barrières POLICE LINE, le brancard, les cônes et les fusées de détresse. Les surfaces et les plantes viennent de matières photographiées.
 - **Éclairé comme l’original.** Chaque lumière est dans un luminaire que montre l’original : les lampadaires, les gyrophares du camion, l’ambulance, les spots de l’auvent, les projecteurs du massif. Le niveau et la couleur de la lumière sont mesurés face à l’original, zone par zone, plutôt que réglés à l’œil.
 
-Alpha précoce : les personnages, les tuyaux au sol et les gyrophares animés restent à venir.
+- **Le sol, de près.** Le bitume est maintenant une vraie chaussée photographiée, usée, jamais identique d’un endroit à l’autre. Il porte ce que porte une vraie allée de ville : des fissures colmatées au goudron, des réparations découpées à la scie autour des plaques d’égout, une peinture usée, des gouttes d’huile au milieu des voies. Autour des tuyaux du camion, le sol est trempé, l’eau stagne dans ses vrais creux et les bottes mouillées des pompiers laissent leurs empreintes jusqu’aux portes. Le tapis rouge fait des plis, et sa couleur comme celle du marbre sont maintenant mesurées face à l’original.
 
-[![Allée du parvis d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-drive-4x3.png)](media/alpha/akropolis-plaza-drive-4x3.png)
-*L’allée et le massif rond · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-drive-4x3.png)*
+Alpha précoce : les personnages et les gyrophares animés restent à venir.
 
-[![Camion de pompiers d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-fire-engine-4x3.png)](media/alpha/akropolis-plaza-fire-engine-4x3.png)
-*Le camion de pompiers devant la tour · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-fire-engine-4x3.png)*
+[![Allée du parvis d’Akropolis — original (gauche) et décor réel (droite)](media/comparisons/akropolis-plaza-drive-4x3.png)](media/alpha/akropolis-plaza-drive-4x3.png)
+*L’allée et le massif rond · décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-drive-4x3.png)*
 
-[![Parvis d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-forecourt-4x3.png)](media/alpha/akropolis-plaza-forecourt-4x3.png)
-*Le parvis et le tapis rouge · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-forecourt-4x3.png)*
+[![Marquages de l’allée d’Akropolis — original (gauche) et décor réel avec la passe du sol (droite)](media/comparisons/akropolis-plaza-markings-4x3.png)](media/alpha/akropolis-plaza-markings-4x3.png)
+*Les marquages de l’allée et les barrières · la passe du sol · [capture native 3840 × 2880](media/alpha/akropolis-plaza-markings-4x3.png)*
 
-[![Portes de la tour d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-doors-4x3.png)](media/alpha/akropolis-plaza-doors-4x3.png)
-*Les portes de la tour · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-doors-4x3.png)*
+[![Camion de pompiers d’Akropolis — original (gauche) et décor réel (droite)](media/comparisons/akropolis-plaza-fire-engine-4x3.png)](media/alpha/akropolis-plaza-fire-engine-4x3.png)
+*Le camion de pompiers devant la tour, le sol trempé autour des tuyaux · décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-fire-engine-4x3.png)*
+
+[![Parvis d’Akropolis — original (gauche) et décor réel (droite)](media/comparisons/akropolis-plaza-forecourt-4x3.png)](media/alpha/akropolis-plaza-forecourt-4x3.png)
+*Le parvis et le tapis rouge · décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-forecourt-4x3.png)*
+
+[![Portes de la tour d’Akropolis — original (gauche) et décor réel (droite)](media/comparisons/akropolis-plaza-doors-4x3.png)](media/alpha/akropolis-plaza-doors-4x3.png)
+*Les portes de la tour · décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-doors-4x3.png)*
 
 [Détails](docs/PROGRESS.fr.md#akropolis-parvis-de-la-tour--point-du-9-novembre-2026)
 

@@ -53,7 +53,9 @@ Models from [Poly Haven](https://polyhaven.com), released under [CC0 1.0](https:
 | Metal Manhole Cover | Quixel Megascans | [Fab listing](https://www.fab.com/listings/f3fc6c71-33c6-4044-9575-c5b0b0863b9b) | Fab Standard Licence (free offer) |
 | Boxwood | Quixel Megascans | [Fab listing](https://www.fab.com/listings/ae90090d-cafb-4431-a74f-8cded15f93e1) | Fab Standard Licence (free offer) |
 | Traffic Cone | Quixel Megascans | [Fab listing](https://www.fab.com/listings/b9c52f4d-0eb4-48c3-9ed0-1e77b9f05c52) | Fab Standard Licence (free offer) |
-| asphalt_01 | Poly Haven | [polyhaven.com](https://polyhaven.com/a/asphalt_01) | CC0 1.0 |
+| Cracked Asphalt (the drive's main asphalt) | Quixel Megascans | [Fab listing](https://www.fab.com/listings/cad1cf28-8109-4018-8d94-f041d00d44c7) | Fab Standard Licence (free offer) |
+| Rough Asphalt (blended in, so the drive never repeats) | Quixel Megascans | [Fab listing](https://www.fab.com/listings/6a8487fa-3039-4e31-8415-ab27c0f69279) | Fab Standard Licence (free offer) |
+| Asphalt Fresh (the repairs) | Quixel Megascans | [Fab listing](https://www.fab.com/listings/d656c99c-e792-4880-b832-7835dd450395) | Fab Standard Licence (free offer) |
 | Fabric030 (the carpet's weave), Metal029 (the brass) | ambientCG | [ambientcg.com](https://ambientcg.com) | CC0 1.0 |
 
 The fire engine, the ambulance, the barricades, the gurney, the road flares and the plaza's architecture are modelled for this project.

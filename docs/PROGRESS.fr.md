@@ -37,7 +37,9 @@ Le parvis au pied de la tour d’Akropolis est le premier lieu d’Akropolis que
 
 **La lumière.** Dans l’original, les lumières de ce lieu n’éclairent que les personnages, posés sur une image pré-calculée. Ici, la scène est éclairée par les luminaires que montre l’original : les deux lampadaires, les gyrophares et projecteurs du camion, l’ambulance, les spots de l’auvent et les projecteurs du massif. Chaque zone du sol est comparée à l’original au même cadrage : le niveau d’ensemble lui correspond maintenant, chaque zone reste à moins d’un facteur deux, avec la même couleur chaude.
 
-**À venir.** Les personnages, les tuyaux au sol, les gyrophares animés et un calage plus précis du camion.
+**Le sol (soir du 9 novembre).** Le sol était la partie la moins convaincante de la scène : il a eu sa propre passe. Le bitume est maintenant fait de trois chaussées photographiées, mêlées sur toute l’allée pour que deux endroits ne se ressemblent jamais, à la même luminosité qu’avant (elle était déjà calée sur l’original). Il porte l’usure d’une allée de ville : des fissures colmatées au goudron coulé, usé là où passent les roues, du faïençage dans les traces de roues, des réparations carrées découpées à la scie autour des plaques d’égout, deux tranchées en travers de l’allée, des rebouchages à froid, des gouttes d’huile au milieu des voies, du sable le long des bordures, une peinture écaillée le long des fissures. Les tuyaux du camion traversent maintenant l’allée, et le sol autour d’eux est trempé, comme dans l’original : l’eau stagne dans les vrais creux du sol, et les bottes mouillées des pompiers laissent des empreintes jusqu’aux portes et jusqu’à l’ambulance, qui s’effacent en séchant. Le tapis rouge fait des plis et porte les traces de passage. Sa couleur et celle du marbre sont mesurées face à l’original au même cadrage : le tapis est d’un rouge plus profond, le marbre d’un vert-gris plus froid.
+
+**À venir.** Les personnages, les gyrophares animés et un calage plus précis du camion.
 
 ## Porte de la zone d’accès restreint du M.I.S.T. — point du 1er novembre 2026
 
