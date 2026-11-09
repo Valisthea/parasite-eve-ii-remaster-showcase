@@ -38,6 +38,30 @@ Trois façons de jouer sont prévues : les caméras fixes d’origine en 4:3, le
 
 <p align="center"><sub>3 · Mode remaster, nouvelle caméra, 16:9 · Aya face à Jodie au comptoir · capture native 3840 × 2160</sub></p>
 
+## Akropolis · le parvis de la tour en décor réel · novembre 2026
+
+Le premier lieu jouable d’Akropolis est le parvis au pied de la tour : la nuit de l’attaque, des voitures de police, un camion de pompiers et une ambulance devant les portes. Dans l’original, c’est un décor pré-calculé ; ici, c’est un vrai lieu que l’on traverse, reconstruit et vérifié image par image face à l’original, au même cadrage.
+
+- **Mesuré, pas deviné.** Les marquages au sol, le tapis rouge et son lettrage, le parvis en marbre et le bitume sont placés là où l’original les montre, relevés sur ses images au centimètre près. L’entrée de la tour (granit rouge, applique, portes vitrées, grilles roulantes, colonne dorée) est relevée de la même façon, de face.
+- **Modélisé pour le projet.** Le camion de pompiers, l’ambulance aux portes arrière ouvertes, les barrières POLICE LINE, le brancard, les cônes et les fusées de détresse. Les surfaces et les plantes viennent de matières photographiées.
+- **Éclairé comme l’original.** Chaque lumière est dans un luminaire que montre l’original : les lampadaires, les gyrophares du camion, l’ambulance, les spots de l’auvent, les projecteurs du massif. Le niveau et la couleur de la lumière sont mesurés face à l’original, zone par zone, plutôt que réglés à l’œil.
+
+Alpha précoce : les personnages, les tuyaux au sol et les gyrophares animés restent à venir.
+
+[![Allée du parvis d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-drive-4x3.png)](media/alpha/akropolis-plaza-drive-4x3.png)
+*L’allée et le massif rond · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-drive-4x3.png)*
+
+[![Camion de pompiers d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-fire-engine-4x3.png)](media/alpha/akropolis-plaza-fire-engine-4x3.png)
+*Le camion de pompiers devant la tour · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-fire-engine-4x3.png)*
+
+[![Parvis d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-forecourt-4x3.png)](media/alpha/akropolis-plaza-forecourt-4x3.png)
+*Le parvis et le tapis rouge · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-forecourt-4x3.png)*
+
+[![Portes de la tour d’Akropolis — original (gauche) et premier décor réel (droite)](media/comparisons/akropolis-plaza-doors-4x3.png)](media/alpha/akropolis-plaza-doors-4x3.png)
+*Les portes de la tour · premier décor réel · [capture native 3840 × 2880](media/alpha/akropolis-plaza-doors-4x3.png)*
+
+[Détails](docs/PROGRESS.fr.md#akropolis-parvis-de-la-tour--point-du-9-novembre-2026)
+
 ## Nouveautés · fin octobre 2026
 
 **Des matières photographiées dans tout le M.I.S.T.** Sols, béton, plâtre, métal peint, bois, papier et carton utilisent désormais des surfaces photographiées, accordées aux couleurs d’origine. Chaque sol carrelé porte sa propre usure sur toute la pièce, au lieu de la même marque répétée sur chaque carreau.

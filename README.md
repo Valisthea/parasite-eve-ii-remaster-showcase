@@ -38,6 +38,30 @@ Three ways to play are planned: the original fixed cameras in 4:3, the same fixe
 
 <p align="center"><sub>3 · Remaster mode, new camera, 16:9 · Aya facing Jodie at the counter · native capture 3840 × 2160</sub></p>
 
+## Akropolis · the tower plaza in real decor · November 2026
+
+The first playable place of Akropolis is the plaza at the foot of the tower: the night of the attack, police cars, a fire engine and an ambulance in front of the doors. In the original it is a pre-rendered background; here it is a real space you walk through, rebuilt and checked frame by frame against the original at the same framing.
+
+- **Measured, not guessed.** The ground markings, the red carpet and its lettering, the marble forecourt and the asphalt are placed where the original shows them, read from its frames to the centimetre. The tower entrance (red granite, sconce, glass doors, roller grilles, gold column) is read the same way, straight on.
+- **Modelled for the project.** The fire engine, the ambulance with its open rear doors, the POLICE LINE barricades, the gurney, the cones and the road flares. Surfaces and plants come from photographed materials.
+- **Lit like the original.** Every light sits in a fixture the original shows: the street lamps, the fire engine's beacons, the ambulance, the canopy lights, the planter's lights. The light level and colour are measured against the original, zone by zone, rather than set by eye.
+
+Early alpha: the characters, the hoses on the ground and the flashing beacons are still to come.
+
+[![Akropolis plaza drive — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-drive-4x3.png)](media/alpha/akropolis-plaza-drive-4x3.png)
+*The drive and the round planter · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-drive-4x3.png)*
+
+[![Akropolis fire engine — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-fire-engine-4x3.png)](media/alpha/akropolis-plaza-fire-engine-4x3.png)
+*The fire engine at the tower · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-fire-engine-4x3.png)*
+
+[![Akropolis forecourt — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-forecourt-4x3.png)](media/alpha/akropolis-plaza-forecourt-4x3.png)
+*The forecourt and the red carpet · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-forecourt-4x3.png)*
+
+[![Akropolis tower doors — original (left) and first real decor (right)](media/comparisons/akropolis-plaza-doors-4x3.png)](media/alpha/akropolis-plaza-doors-4x3.png)
+*The tower doors · first real decor · [native capture 3840 × 2880](media/alpha/akropolis-plaza-doors-4x3.png)*
+
+[Details](docs/PROGRESS.md#akropolis-tower-plaza--update-of-9-november-2026)
+
 ## What’s new · late October 2026
 
 **Photographed materials across M.I.S.T.** Floors, concrete, plaster, painted metal, wood, paper and cardboard now use photographed surfaces, matched to the original colours. Each tiled floor carries its own wear across the whole room instead of the same mark on every tile.

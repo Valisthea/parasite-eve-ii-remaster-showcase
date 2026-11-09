@@ -19,6 +19,18 @@ Work progresses in focused passes: build, compare, test, then correct. Screensho
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
 
+## Akropolis tower plaza — update of 9 November 2026
+
+The plaza at the foot of the Akropolis tower is the first place of Akropolis you can walk through from start to finish: from Aya's car to the tower doors, at the original's framings.
+
+**How it is rebuilt.** The original shows this place as a pre-rendered background. Its frames are the reference: the ground is reconstructed from them as seen from above, which places the parking lines, the hatched area, the yellow STOP, the red carpet and its "akropolis / tower" lettering to the centimetre; the tower entrance is reconstructed straight on, which gives the pier, the sconce, the doors, the grilles and the gold column their real sizes. Each POLICE LINE barricade stands where several views of the original agree; the row in front of the doors starts at the fire engine, as in the original.
+
+**What is new in the scene.** A fire engine, an ambulance with its rear doors open on its lit interior, the barricades, a gurney, cones, road flares and manhole covers, all modelled or chosen for this place; the round planter on its brick island with its gold letters; photographed asphalt, marble, granite and brick.
+
+**Light.** In the original, the lights of this place only light the characters over a pre-rendered picture. Here the scene is lit by the fixtures the original shows: the two street lamps, the fire engine's beacons and work lights, the ambulance, the canopy's downlights and the planter's lights. Each zone of the ground is compared with the original at the same framing: the overall level now matches it, and every zone is within a factor of two, with the same warm colour.
+
+**Still to come.** The characters, the hoses on the ground, flashing beacons, and a closer fit of the fire engine.
+
 ## M.I.S.T. restricted area door — update of 1 November 2026
 
 **Real hardware, real sizes.** Every fitting around the restricted area door now copies a real product, at its catalogue dimensions:

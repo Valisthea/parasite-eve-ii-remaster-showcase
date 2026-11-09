@@ -43,6 +43,23 @@ Models from [Poly Haven](https://polyhaven.com), released under [CC0 1.0](https:
 | [Modular Airduct Rectangular 01](https://polyhaven.com/a/modular_airduct_rectangular_01) | James Ray Cock |
 | [Power Box 01](https://polyhaven.com/a/power_box_01) | Rico Cilliers, Yann Kervran |
 
+## Akropolis plaza surfaces and plants / Surfaces et plantes du parvis d’Akropolis
+
+| Resource | Author | Source | Licence |
+| --- | --- | --- | --- |
+| Green Marble Floor (recoloured for the granite and tan marble too) | Quixel Megascans | [Fab listing](https://www.fab.com/listings/9aebd129-096c-4cdc-8f47-80a7f5677cba) | Fab Standard Licence (free offer) |
+| Herringbone Brick Pavement | Quixel Megascans | [Fab listing](https://www.fab.com/listings/d79f836b-dc8c-4feb-ac82-18a676d6cb83) | Fab Standard Licence (free offer) |
+| Rough Granite | Quixel Megascans | [Fab listing](https://www.fab.com/listings/92894828-7ed4-4268-9e75-59ecebed36e4) | Fab Standard Licence (free offer) |
+| Metal Manhole Cover | Quixel Megascans | [Fab listing](https://www.fab.com/listings/f3fc6c71-33c6-4044-9575-c5b0b0863b9b) | Fab Standard Licence (free offer) |
+| Boxwood | Quixel Megascans | [Fab listing](https://www.fab.com/listings/ae90090d-cafb-4431-a74f-8cded15f93e1) | Fab Standard Licence (free offer) |
+| Traffic Cone | Quixel Megascans | [Fab listing](https://www.fab.com/listings/b9c52f4d-0eb4-48c3-9ed0-1e77b9f05c52) | Fab Standard Licence (free offer) |
+| asphalt_01 | Poly Haven | [polyhaven.com](https://polyhaven.com/a/asphalt_01) | CC0 1.0 |
+| Fabric030 (the carpet's weave), Metal029 (the brass) | ambientCG | [ambientcg.com](https://ambientcg.com) | CC0 1.0 |
+
+The fire engine, the ambulance, the barricades, the gurney, the road flares and the plaza's architecture are modelled for this project.
+
+*Le camion de pompiers, l’ambulance, les barrières, le brancard, les fusées et l’architecture du parvis sont modélisés pour ce projet.*
+
 ## Paintings / Tableaux — Art Institute of Chicago (CC0)
 
 The framed pictures in the range hall are public-domain paintings from the [Art Institute of Chicago open access collection](https://www.artic.edu/open-access/public-domain), released under CC0.

@@ -57,6 +57,30 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-restri
 
 Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · aucun personnage dans le champ.
 
+### Akropolis · l’allée du parvis et le massif rond
+
+[![Comparaison : Akropolis · l’allée du parvis et le massif rond](../media/comparisons/akropolis-plaza-drive-4x3.png)](../media/alpha/akropolis-plaza-drive-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-plaza-drive-4x3.png) · premier décor réel et première passe de lumière, aucun personnage.
+
+### Akropolis · le camion de pompiers devant la tour
+
+[![Comparaison : Akropolis · le camion de pompiers devant la tour](../media/comparisons/akropolis-plaza-fire-engine-4x3.png)](../media/alpha/akropolis-plaza-fire-engine-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-plaza-fire-engine-4x3.png) · premier décor réel et première passe de lumière, aucun personnage.
+
+### Akropolis · le parvis et le tapis rouge
+
+[![Comparaison : Akropolis · le parvis et le tapis rouge](../media/comparisons/akropolis-plaza-forecourt-4x3.png)](../media/alpha/akropolis-plaza-forecourt-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-plaza-forecourt-4x3.png) · premier décor réel et première passe de lumière, aucun personnage.
+
+### Akropolis · les portes de la tour
+
+[![Comparaison : Akropolis · les portes de la tour](../media/comparisons/akropolis-plaza-doors-4x3.png)](../media/alpha/akropolis-plaza-doors-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/akropolis-plaza-doors-4x3.png) · premier décor réel et première passe de lumière, aucun personnage.
+
 ### Akropolis · colonnade du belvédère
 
 [![Comparaison : Akropolis · colonnade du belvédère](../media/comparisons/akropolis-observatory-4x3.png)](../media/alpha/akropolis-observatory-4x3.png)

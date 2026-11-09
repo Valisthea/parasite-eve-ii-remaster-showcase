@@ -19,6 +19,18 @@ Le travail avance par passes : construire, comparer, tester, puis corriger. Les 
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
 
+## Akropolis, parvis de la tour — point du 9 novembre 2026
+
+Le parvis au pied de la tour d’Akropolis est le premier lieu d’Akropolis que l’on traverse d’un bout à l’autre : de la voiture d’Aya jusqu’aux portes de la tour, aux cadrages de l’original.
+
+**Comment il est reconstruit.** L’original montre ce lieu comme un décor pré-calculé. Ses images servent de référence : le sol est reconstitué vu de dessus, ce qui place au centimètre les lignes de stationnement, la zone hachurée, le STOP jaune, le tapis rouge et son lettrage « akropolis / tower » ; l’entrée de la tour est reconstituée de face, ce qui donne au pilier, à l’applique, aux portes, aux grilles et à la colonne dorée leurs vraies dimensions. Chaque barrière POLICE LINE se tient là où plusieurs vues de l’original concordent ; la rangée devant les portes part du camion de pompiers, comme dans l’original.
+
+**Ce qui est nouveau dans la scène.** Un camion de pompiers, une ambulance aux portes arrière ouvertes sur son intérieur éclairé, les barrières, un brancard, des cônes, des fusées de détresse et des plaques d’égout, tous modélisés ou choisis pour ce lieu ; le massif rond sur son îlot de briques avec ses lettres dorées ; du bitume, du marbre, du granit et des briques photographiés.
+
+**La lumière.** Dans l’original, les lumières de ce lieu n’éclairent que les personnages, posés sur une image pré-calculée. Ici, la scène est éclairée par les luminaires que montre l’original : les deux lampadaires, les gyrophares et projecteurs du camion, l’ambulance, les spots de l’auvent et les projecteurs du massif. Chaque zone du sol est comparée à l’original au même cadrage : le niveau d’ensemble lui correspond maintenant, chaque zone reste à moins d’un facteur deux, avec la même couleur chaude.
+
+**À venir.** Les personnages, les tuyaux au sol, les gyrophares animés et un calage plus précis du camion.
+
 ## Porte de la zone d’accès restreint du M.I.S.T. — point du 1er novembre 2026
 
 **Du vrai matériel, aux vraies dimensions.** Chaque équipement autour de la porte de la zone d’accès restreint reprend un produit réel, aux cotes du catalogue :

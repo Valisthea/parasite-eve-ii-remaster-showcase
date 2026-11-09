@@ -57,6 +57,30 @@ Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-restrict
 
 Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · no character in frame.
 
+### Akropolis · the plaza drive and the round planter
+
+[![Akropolis · the plaza drive and the round planter comparison](../media/comparisons/akropolis-plaza-drive-4x3.png)](../media/alpha/akropolis-plaza-drive-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-plaza-drive-4x3.png) · first real decor and lighting pass, no character in frame.
+
+### Akropolis · the fire engine at the tower
+
+[![Akropolis · the fire engine at the tower comparison](../media/comparisons/akropolis-plaza-fire-engine-4x3.png)](../media/alpha/akropolis-plaza-fire-engine-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-plaza-fire-engine-4x3.png) · first real decor and lighting pass, no character in frame.
+
+### Akropolis · the forecourt and the red carpet
+
+[![Akropolis · the forecourt and the red carpet comparison](../media/comparisons/akropolis-plaza-forecourt-4x3.png)](../media/alpha/akropolis-plaza-forecourt-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-plaza-forecourt-4x3.png) · first real decor and lighting pass, no character in frame.
+
+### Akropolis · the tower doors
+
+[![Akropolis · the tower doors comparison](../media/comparisons/akropolis-plaza-doors-4x3.png)](../media/alpha/akropolis-plaza-doors-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/akropolis-plaza-doors-4x3.png) · first real decor and lighting pass, no character in frame.
+
 ### Akropolis · observatory colonnade
 
 [![Akropolis · observatory colonnade comparison](../media/comparisons/akropolis-observatory-4x3.png)](../media/alpha/akropolis-observatory-4x3.png)
