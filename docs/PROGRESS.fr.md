@@ -19,6 +19,16 @@ Le travail avance par passes : construire, comparer, tester, puis corriger. Les 
 
 Aucune date de sortie n’est annoncée. Les voix, les cinématiques et l’extension au-delà des espaces actuels restent des pistes pour la suite.
 
+## M.I.S.T. — point de mi-novembre 2026
+
+**L’ambiance.** Une passe sur toutes les salles du M.I.S.T., sauf la première vue de l’original, qui reste telle quelle : des ombres qui gardent leur matière au lieu du noir pur, des couleurs plus calmes, les ombres de chaque salle teintées par ses propres lumières, et une légère présence de l’air autour des lampes. Essayée d’abord dans le bureau de Pierce et l’armurerie, elle a ensuite été portée au sas, au hall, au stand de tir et au couloir.
+
+**Une option Ambiance.** Activée : lumière volumétrique, reflets en pleine résolution et image plus nette ; désactivée : le chemin léger pour les cartes graphiques modestes. Le travail des couleurs reste dans les deux cas.
+
+**Les détails.** Le bout du bureau de Pierce reçoit une imprimante matricielle 24 aiguilles modélisée (capot fumé, rouleau, tête et ruban dessous, légendes du panneau, registre à bandes vertes imprimé à l’endroit) et l’extincteur une étiquette américaine complète ; l’ombre de la cage de l’armurerie retombe sur le bureau.
+
+**Les captures.** Les nouvelles images sont des rendus natifs 4:3 en 3840 × 2880, pris dans le jeu lui-même avec ses réglages de qualité les plus hauts.
+
 ## Salle de surveillance et hall du M.I.S.T. — point de début novembre 2026
 
 **Les lumières d’abord.** Les luminaires de la salle de surveillance et du hall qui mène au bureau de Pierce ont été replacés d’après l’original : chaque luminaire visible dans ses vues fixes a été projeté sur le plafond à travers le cadrage d’origine. Le luminaire rond du hall s’est révélé être une bouche d’aération (il n’éclaire plus) ; les réglettes sont venues là où l’original les montre, l’une en travers du hall devant le certificat ; un rail de spots noir longe les tableaux, avec une tête par colonne de cadres ; une lumière sous la hotte du bureau éclaire le plan de travail. Chaque lumière sort de son luminaire.

@@ -57,6 +57,30 @@ Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-restrict
 
 Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · no character in frame.
 
+### M.I.S.T. · the monitoring room, mid-November
+
+[![M.I.S.T. · the monitoring room, mid-November comparison](../media/comparisons/mist-monitoring-room-mid-nov-4x3.png)](../media/alpha/mist-monitoring-room-mid-nov-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-monitoring-room-mid-nov-4x3.png) · mood pass, no character in frame.
+
+### M.I.S.T. · the hall toward Pierce’s office, mid-November
+
+[![M.I.S.T. · the hall toward Pierce’s office, mid-November comparison](../media/comparisons/mist-hall-mid-nov-4x3.png)](../media/alpha/mist-hall-mid-nov-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-hall-mid-nov-4x3.png) · mood pass, no character in frame.
+
+### M.I.S.T. · the armoury, mid-November
+
+[![M.I.S.T. · the armoury, mid-November comparison](../media/comparisons/mist-armoury-mid-nov-4x3.png)](../media/alpha/mist-armoury-mid-nov-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-armoury-mid-nov-4x3.png) · mood pass, no character in frame.
+
+### M.I.S.T. · the shooting range, mid-November
+
+[![M.I.S.T. · the shooting range, mid-November comparison](../media/comparisons/mist-range-mid-nov-4x3.png)](../media/alpha/mist-range-mid-nov-4x3.png)
+
+Board 3840 × 2160 · [native capture 3840 × 2880](../media/alpha/mist-range-mid-nov-4x3.png) · mood pass, no character in frame.
+
 ### M.I.S.T. · the monitoring room, early November
 
 [![M.I.S.T. · the monitoring room, early November comparison](../media/comparisons/mist-monitoring-room-nov-4x3.png)](../media/alpha/mist-monitoring-room-nov-4x3.png)

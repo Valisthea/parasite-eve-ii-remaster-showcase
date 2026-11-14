@@ -19,6 +19,16 @@ Work progresses in focused passes: build, compare, test, then correct. Screensho
 
 There is no release ETA. Voice acting, cinematic work and expansion beyond the current environments are future possibilities, not completed features.
 
+## M.I.S.T. — update of mid-November 2026
+
+**Mood.** A pass on every room of the M.I.S.T. except the original’s first view, which stays as it is: shadows that keep their matter instead of pure black, calmer colours, each room’s shadows tinted by its own lights, and a faint presence of air round the lamps. It was first tried in Pierce’s office and the armoury, then carried to the airlock, the hall, the range and the corridor.
+
+**An Ambiance option.** On: volumetric light, full-resolution reflections and a sharper image; off: the lighter path for modest graphics cards. The colour work is kept either way.
+
+**Details.** Pierce’s desk end has a modelled 24-pin dot-matrix printer (smoked lid, platen, head and ribbon under it, panel legends, a green-bar log printed the right way up) and the extinguisher a full US label; the armoury’s cage shadow falls on the desk again.
+
+**Captures.** The new pictures are native 4:3 renders at 3840 × 2880, taken in the game itself at its highest quality settings.
+
 ## M.I.S.T. monitoring room and hall — update of early November 2026
 
 **Lights first.** The light fittings of the monitoring room and of the hall toward Pierce's office were placed again, from the original: each fitting visible in the original's fixed views was projected onto the ceiling through the original framing. The hall's round fitting turned out to be a vent (it now gives no light); the tube fittings moved to where the original has them, one of them across the hall in front of the certificate; a black spot rail runs along the paintings with one head per column of frames; a light sits under the desk's hood, lighting the desk. Every light comes out of its fitting.

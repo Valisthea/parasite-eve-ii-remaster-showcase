@@ -38,6 +38,28 @@ Trois façons de jouer sont prévues : les caméras fixes d’origine en 4:3, le
 
 <p align="center"><sub>3 · Mode remaster, nouvelle caméra, 16:9 · Aya face à Jodie au comptoir · capture native 3840 × 2160</sub></p>
 
+## M.I.S.T. · mi-novembre 2026
+
+**Une passe d’ambiance sur toutes les salles.** Les ombres ne tombent plus dans le noir pur : dans l’obscurité, la matière d’un mur, d’une façade de comptoir ou d’un sol reste lisible, comme dans une vraie pièce. Les couleurs sont plus calmes et les ombres de chaque salle prennent la teinte de ses propres lumières.
+
+**L’air, à peine.** Une légère présence de l’air autour des lampes — pas du brouillard, juste assez pour que la lumière ait un corps.
+
+**Une option Ambiance.** Les nouveaux réglages de rendu sont une option du menu du jeu : activée pour la qualité maximale (lumière volumétrique, reflets en pleine résolution, image plus nette), désactivée pour les cartes graphiques modestes.
+
+**Des détails de finition.** Au bout du bureau de Pierce, une imprimante matricielle 24 aiguilles avec son capot fumé, son ruban et son registre à bandes vertes ; un extincteur américain avec son étiquette complète ; dans l’armurerie, la cage projette à nouveau l’ombre de son grillage sur le bureau.
+
+[![M.I.S.T. · la salle de surveillance — original (gauche) et mi-novembre (droite)](media/comparisons/mist-monitoring-room-mid-nov-4x3.png)](media/alpha/mist-monitoring-room-mid-nov-4x3.png)
+*La salle de surveillance · mi-novembre · [capture native 3840 × 2880](media/alpha/mist-monitoring-room-mid-nov-4x3.png)*
+
+[![M.I.S.T. · le hall vers le bureau de Pierce — original (gauche) et mi-novembre (droite)](media/comparisons/mist-hall-mid-nov-4x3.png)](media/alpha/mist-hall-mid-nov-4x3.png)
+*Le hall vers le bureau de Pierce · mi-novembre · [capture native 3840 × 2880](media/alpha/mist-hall-mid-nov-4x3.png)*
+
+[![M.I.S.T. · l’armurerie — original (gauche) et mi-novembre (droite)](media/comparisons/mist-armoury-mid-nov-4x3.png)](media/alpha/mist-armoury-mid-nov-4x3.png)
+*L’armurerie · mi-novembre · [capture native 3840 × 2880](media/alpha/mist-armoury-mid-nov-4x3.png)*
+
+[![M.I.S.T. · le stand de tir — original (gauche) et mi-novembre (droite)](media/comparisons/mist-range-mid-nov-4x3.png)](media/alpha/mist-range-mid-nov-4x3.png)
+*Le stand de tir · mi-novembre · [capture native 3840 × 2880](media/alpha/mist-range-mid-nov-4x3.png)*
+
 ## M.I.S.T. · début novembre 2026
 
 **Des lumières placées là où l’original les montre.** Dans la salle de surveillance et le hall qui mène au bureau de Pierce, chaque luminaire se trouve désormais là où les vues fixes de l’original en montrent un : une bouche d’aération ronde au plafond du hall, les réglettes, un rail de spots le long des tableaux et une lumière sous la hotte du bureau. Chaque lumière sort de son luminaire.

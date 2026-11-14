@@ -38,6 +38,28 @@ Three ways to play are planned: the original fixed cameras in 4:3, the same fixe
 
 <p align="center"><sub>3 · Remaster mode, new camera, 16:9 · Aya facing Jodie at the counter · native capture 3840 × 2160</sub></p>
 
+## M.I.S.T. · mid-November 2026
+
+**A mood pass on every room.** Shadows no longer fall into pure black: in the dark, the matter of a wall, a counter front or a floor stays readable, as in a real room. Colours are calmer, and each room’s shadows take the tint of its own lights.
+
+**Air, barely there.** A faint presence of air round the lamps — not fog, just enough for the light to have a body.
+
+**An Ambiance option.** The new rendering settings are an option of the game’s menu: on for full quality (volumetric light, full-resolution reflections, a sharper image), off for modest graphics cards.
+
+**Finishing details.** At the end of Pierce’s desk, a 24-pin dot-matrix printer with its smoked lid, its ribbon and its green-bar log; a US extinguisher with its full label; in the armoury, the cage casts its mesh shadow across the desk again.
+
+[![M.I.S.T. · the monitoring room — original (left) and mid-November (right)](media/comparisons/mist-monitoring-room-mid-nov-4x3.png)](media/alpha/mist-monitoring-room-mid-nov-4x3.png)
+*The monitoring room · mid-November · [native capture 3840 × 2880](media/alpha/mist-monitoring-room-mid-nov-4x3.png)*
+
+[![M.I.S.T. · the hall toward Pierce’s office — original (left) and mid-November (right)](media/comparisons/mist-hall-mid-nov-4x3.png)](media/alpha/mist-hall-mid-nov-4x3.png)
+*The hall toward Pierce’s office · mid-November · [native capture 3840 × 2880](media/alpha/mist-hall-mid-nov-4x3.png)*
+
+[![M.I.S.T. · the armoury — original (left) and mid-November (right)](media/comparisons/mist-armoury-mid-nov-4x3.png)](media/alpha/mist-armoury-mid-nov-4x3.png)
+*The armoury · mid-November · [native capture 3840 × 2880](media/alpha/mist-armoury-mid-nov-4x3.png)*
+
+[![M.I.S.T. · the shooting range — original (left) and mid-November (right)](media/comparisons/mist-range-mid-nov-4x3.png)](media/alpha/mist-range-mid-nov-4x3.png)
+*The shooting range · mid-November · [native capture 3840 × 2880](media/alpha/mist-range-mid-nov-4x3.png)*
+
 ## M.I.S.T. · early November 2026
 
 **Lights placed where the original shows them.** In the monitoring room and the hall toward Pierce's office, every light fitting now stands where the original's fixed views show one: a round vent in the hall ceiling, the tube fittings, a spot rail along the paintings and a light under the desk's hood. Each light comes out of its fitting.

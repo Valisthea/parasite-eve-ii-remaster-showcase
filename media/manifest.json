@@ -1161,6 +1161,126 @@
       "temporary_characters": false,
       "sha256": "bdcee660f3d45bba026a6c99c0b9814442177fd0d71e69df540658d0a956ebf9",
       "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/mist-monitoring-room-mid-nov-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The monitoring room after the mood pass: shadows that keep their matter, calmer colours, the air of the room — original (left) and early alpha (right) at the same reference framing. No character.",
+      "caption_fr": "La salle de surveillance après la passe d’ambiance : des ombres qui gardent leur matière, des couleurs plus calmes, l’air de la pièce — original (à gauche) et alpha (à droite) au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-14",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "50f7d72cf246d15eac2fdb0147360afcd8d537d40b30fa239e35cb89d3e179de",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/mist-monitoring-room-mid-nov-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The monitoring room after the mood pass: shadows that keep their matter, calmer colours, the air of the room — development alpha, native 4:3 render. No character.",
+      "caption_fr": "La salle de surveillance après la passe d’ambiance : des ombres qui gardent leur matière, des couleurs plus calmes, l’air de la pièce — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-14",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "e6461949b9fc333022aeccc24beb604ade2730ac93e14831c9ac3c5d14fd6f98",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/mist-hall-mid-nov-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The hall toward Pierce’s office: the desk end with its dot-matrix log printer, the US extinguisher, the spot-lit paintings — original (left) and early alpha (right) at the same reference framing. No character.",
+      "caption_fr": "Le hall vers le bureau de Pierce : le bout du bureau avec son imprimante matricielle de registre, l’extincteur américain, les tableaux sous leurs spots — original (à gauche) et alpha (à droite) au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-14",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "47837a067b425a795347d3e631b7b35d240a19118ac42853446e2e550838ca3d",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/mist-hall-mid-nov-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The hall toward Pierce’s office: the desk end with its dot-matrix log printer, the US extinguisher, the spot-lit paintings — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Le hall vers le bureau de Pierce : le bout du bureau avec son imprimante matricielle de registre, l’extincteur américain, les tableaux sous leurs spots — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-14",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "584335a014e74f60480aee3cff325cb891b509237d4dbe88388d2bf467903757",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/mist-armoury-mid-nov-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The armoury: the cage’s mesh shadow across the desk and the wall, the shadows of the room readable — original (left) and early alpha (right) at the same reference framing. No character.",
+      "caption_fr": "L’armurerie : l’ombre du grillage de la cage sur le bureau et le mur, des ombres lisibles dans toute la pièce — original (à gauche) et alpha (à droite) au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-14",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "3062375be4ac40d25a62f5c30f10e276776cbf21218a9cc848c6389ca027184f",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/mist-armoury-mid-nov-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The armoury: the cage’s mesh shadow across the desk and the wall, the shadows of the room readable — development alpha, native 4:3 render. No character.",
+      "caption_fr": "L’armurerie : l’ombre du grillage de la cage sur le bureau et le mur, des ombres lisibles dans toute la pièce — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-14",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "569166600d754a93cefd83ccc4871aee6294796935780338541c09aa122f47a3",
+      "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/comparisons/mist-range-mid-nov-4x3.png",
+      "category": "comparison_board",
+      "caption_en": "The shooting range: the original’s dark ceiling kept, the steel and the floor plates readable in the shadow — original (left) and early alpha (right) at the same reference framing. No character.",
+      "caption_fr": "Le stand de tir : le plafond sombre de l’original conservé, l’acier et les plaques du sol lisibles dans l’ombre — original (à gauche) et alpha (à droite) au même cadrage de référence. Aucun personnage.",
+      "width": 3840,
+      "height": 2160,
+      "capture_date": "2026-11-14",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "dcff45b7dd606cc1c30dfb245756816d2cfa6d9da33815938b8e6119cbcdd500",
+      "source_credit": "Original reference (left, rights holders) and Unreal Engine capture from the project’s current build (right)",
+      "original_reference_resolution": [
+        320,
+        240
+      ]
+    },
+    {
+      "file": "media/alpha/mist-range-mid-nov-4x3.png",
+      "category": "native_alpha_capture",
+      "caption_en": "The shooting range: the original’s dark ceiling kept, the steel and the floor plates readable in the shadow — development alpha, native 4:3 render. No character.",
+      "caption_fr": "Le stand de tir : le plafond sombre de l’original conservé, l’acier et les plaques du sol lisibles dans l’ombre — alpha de développement, rendu natif 4:3. Aucun personnage.",
+      "width": 3840,
+      "height": 2880,
+      "capture_date": "2026-11-14",
+      "native_render_4k": true,
+      "temporary_characters": false,
+      "sha256": "ebe0e2b743da7471881c4f720a46ff57172be5e7a9c48113c7651c8e39454a77",
+      "source_credit": "Unreal Engine capture from the project’s current build"
     }
   ]
 }

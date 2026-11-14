@@ -57,6 +57,30 @@ Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-restri
 
 Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-corridor-4x3.png) · aucun personnage dans le champ.
 
+### M.I.S.T. · la salle de surveillance, mi-novembre
+
+[![Comparaison : M.I.S.T. · la salle de surveillance, mi-novembre](../media/comparisons/mist-monitoring-room-mid-nov-4x3.png)](../media/alpha/mist-monitoring-room-mid-nov-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-monitoring-room-mid-nov-4x3.png) · passe d’ambiance, aucun personnage.
+
+### M.I.S.T. · le hall vers le bureau de Pierce, mi-novembre
+
+[![Comparaison : M.I.S.T. · le hall vers le bureau de Pierce, mi-novembre](../media/comparisons/mist-hall-mid-nov-4x3.png)](../media/alpha/mist-hall-mid-nov-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-hall-mid-nov-4x3.png) · passe d’ambiance, aucun personnage.
+
+### M.I.S.T. · l’armurerie, mi-novembre
+
+[![Comparaison : M.I.S.T. · l’armurerie, mi-novembre](../media/comparisons/mist-armoury-mid-nov-4x3.png)](../media/alpha/mist-armoury-mid-nov-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-armoury-mid-nov-4x3.png) · passe d’ambiance, aucun personnage.
+
+### M.I.S.T. · le stand de tir, mi-novembre
+
+[![Comparaison : M.I.S.T. · le stand de tir, mi-novembre](../media/comparisons/mist-range-mid-nov-4x3.png)](../media/alpha/mist-range-mid-nov-4x3.png)
+
+Planche 3840 × 2160 · [capture native 3840 × 2880](../media/alpha/mist-range-mid-nov-4x3.png) · passe d’ambiance, aucun personnage.
+
 ### M.I.S.T. · la salle de surveillance, début novembre
 
 [![Comparaison : M.I.S.T. · la salle de surveillance, début novembre](../media/comparisons/mist-monitoring-room-nov-4x3.png)](../media/alpha/mist-monitoring-room-nov-4x3.png)
