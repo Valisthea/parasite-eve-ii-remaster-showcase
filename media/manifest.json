@@ -1281,6 +1281,19 @@
       "temporary_characters": false,
       "sha256": "ebe0e2b743da7471881c4f720a46ff57172be5e7a9c48113c7651c8e39454a77",
       "source_credit": "Unreal Engine capture from the project’s current build"
+    },
+    {
+      "file": "media/wide/title-launch.webp",
+      "category": "native_alpha_capture",
+      "caption_en": "The title screen in motion: the red boot logo bursts into the teal logo, the particle network and its wet floor, the menu — early alpha, captured in real time in Unreal Engine (4K 60 fps source, shown at 960 × 540, 20 fps). No character.",
+      "caption_fr": "L’écran titre en mouvement : le logo rouge de démarrage éclate en logo turquoise, le réseau de particules et son sol mouillé, le menu — alpha de développement, capturé en temps réel dans Unreal Engine (source 4K 60 fps, montrée en 960 × 540, 20 i/s). Aucun personnage.",
+      "width": 960,
+      "height": 540,
+      "capture_date": "2026-11-15",
+      "native_render_4k": false,
+      "temporary_characters": false,
+      "sha256": "e80bcab11817ca016eb6adc1fbfcf9be831e5f7305c72d5c01faf2e08e81802b",
+      "source_credit": "Unreal Engine capture from the project’s current build"
     }
   ]
 }

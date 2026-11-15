@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="media/cover.png" alt="Parasite Eve II Remaster — écran titre" width="100%">
+  <img src="media/wide/title-launch.webp" alt="Parasite Eve II Remaster — écran titre animé" width="100%">
 </p>
 
-<p align="center"><sub>Écran titre</sub></p>
+<p align="center"><sub>Écran titre · capture en temps réel de l’alpha dans Unreal Engine (le logo de démarrage, START, le menu)</sub></p>
 
 <h1 align="center">PARASITE EVE II · REMASTER</h1>
 
